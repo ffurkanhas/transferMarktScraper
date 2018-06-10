@@ -14,17 +14,26 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/TransferMarktScraper$bnn__1_.coverage" NAME="bnn (1) Coverage Results" MODIFIED="1527273362535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TransferMarktScraper$main.coverage" NAME="main Coverage Results" MODIFIED="1528636231296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TransferMarktScraper$main.coverage" NAME="main Coverage Results" MODIFIED="1528637060619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TransferMarktScraper$bnn.coverage" NAME="bnn Coverage Results" MODIFIED="1527082845817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/transferMarktScraper$main.coverage" NAME="main Coverage Results" MODIFIED="1526737736984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-269">
-              <caret line="104" column="30" lean-forward="true" selection-start-line="104" selection-start-column="30" selection-end-line="104" selection-end-column="30" />
+            <state relative-caret-position="115">
+              <caret line="123" lean-forward="true" selection-end-line="149" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cloudScraper.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cloudScraper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2235">
+              <caret line="149" column="10" selection-start-line="149" selection-start-column="10" selection-end-line="149" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -58,6 +67,7 @@
         <option value="$PROJECT_DIR$/links.txt" />
         <option value="$PROJECT_DIR$/bnn.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/cloudScraper.py" />
       </list>
     </option>
   </component>
@@ -219,7 +229,21 @@
       <option name="project" value="LOCAL" />
       <updated>1528636399218</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="breakpoint fix">
+      <created>1528636929828</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1528636929828</updated>
+    </task>
+    <task id="LOCAL-00004" summary="startPoint fix">
+      <created>1528637249928</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1528637249928</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -231,9 +255,9 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3373102" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3373102" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27908218" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27908218" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -258,7 +282,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="scraper is added with some functions: if it throws exception in somewhere it will continue at breakpoint" />
     <MESSAGE value="breakpoint fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="breakpoint fix" />
+    <MESSAGE value="startPoint fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="startPoint fix" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
@@ -466,8 +491,15 @@
     <entry file="file://$PROJECT_DIR$/scraperCloud.py" />
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-269">
-          <caret line="104" column="30" lean-forward="true" selection-start-line="104" selection-start-column="30" selection-end-line="104" selection-end-column="30" />
+        <state relative-caret-position="115">
+          <caret line="123" lean-forward="true" selection-end-line="149" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloudScraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2235">
+          <caret line="149" column="10" selection-start-line="149" selection-start-column="10" selection-end-line="149" selection-end-column="10" />
         </state>
       </provider>
     </entry>
