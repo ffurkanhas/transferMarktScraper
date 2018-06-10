@@ -152,5 +152,3 @@ if(__name__ == '__main__'):
 
           print("Resuming on: " + str(competitionBreakPoint) + ", " + str(competitionBreakPoint) + ", " + str(clubBreakPoint) + ", " + str(playerBreakPoint))
           pass
-
-    display.stop()
