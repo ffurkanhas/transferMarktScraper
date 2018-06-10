@@ -2453,3 +2453,46 @@ JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3%26dns
 JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3%26dns%3Doff$/15276717632640319454/scripts/Monitor_Eff.js, line 22: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
 JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3%26dns%3Doff$/15276717632640319454/scripts/Monitor_Eff.js, line 22: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1528637060727	geckodriver	INFO	geckodriver 0.20.1
+1528637060731	geckodriver	INFO	Listening on 127.0.0.1:57071
+1528637061738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-profile" "/tmp/rust_mozprofile.IUilcmjiO190"
+*** You are running in headless mode.
+1528637062931	Marionette	INFO	Listening on port 40091
+1528637062945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://player.performgroup.com/spieler/releases/1.47.1/ng-spieler.js, line 4: TypeError: screen is undefined
+JavaScript error: https://player.performgroup.com/spieler/releases/1.47.1/ng-spieler.js, line 4: TypeError: screen is undefined
+JavaScript error: https://player.performgroup.com/spieler/releases/1.47.1/ng-spieler.js, line 4: TypeError: screen is undefined
+JavaScript error: https://player.performgroup.com/spieler/releases/1.47.1/ng-spieler.js, line 4: TypeError: screen is undefined
+JavaScript error: https://player.performgroup.com/spieler/releases/1.47.1/ng-spieler.js, line 4: TypeError: screen is undefined
+JavaScript error: https://player.performgroup.com/spieler/releases/1.47.1/ng-spieler.js, line 4: TypeError: screen is undefined
+JavaScript error: https://player.performgroup.com/spieler/releases/1.47.1/ng-spieler.js, line 4: TypeError: screen is undefined
+JavaScript error: https://player.performgroup.com/spieler/releases/1.47.1/ng-spieler.js, line 4: TypeError: screen is undefined
+JavaScript error: https://player.performgroup.com/spieler/releases/1.47.1/ng-spieler.js, line 4: TypeError: screen is undefined
+JavaScript error: https://player.performgroup.com/spieler/releases/1.47.1/ng-spieler.js, line 4: TypeError: screen is undefined
+JavaScript error: https://player.performgroup.com/spieler/releases/1.47.1/ng-spieler.js, line 4: TypeError: screen is undefined
+JavaScript error: https://player.performgroup.com/spieler/releases/1.47.1/ng-spieler.js, line 4: TypeError: screen is undefined
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3%26dns%3Doff$/15276717632640319454/scripts/Lens_Eff.js, line 28: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3%26dns%3Doff$/15276717632640319454/scripts/Lens_Eff.js, line 28: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3%26dns%3Doff$/15276717632640319454/scripts/Monitor_Eff.js, line 22: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3%26dns%3Doff$/15276717632640319454/scripts/Monitor_Eff.js, line 22: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://player.performgroup.com/spieler/releases/1.47.1/ng-spieler.js, line 4: TypeError: screen is undefined
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3%26dns%3Doff$/15276717632640319454/scripts/Lens_Eff.js, line 28: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3%26dns%3Doff$/15276717632640319454/scripts/Lens_Eff.js, line 28: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3%26dns%3Doff$/15276717632640319454/scripts/Monitor_Eff.js, line 22: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3%26dns%3Doff$/15276717632640319454/scripts/Monitor_Eff.js, line 22: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3%26dns%3Doff$/15276717632640319454/scripts/Lens_Eff.js, line 28: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3%26dns%3Doff$/15276717632640319454/scripts/Lens_Eff.js, line 28: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3%26dns%3Doff$/15276717632640319454/scripts/Monitor_Eff.js, line 22: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3%26dns%3Doff$/15276717632640319454/scripts/Monitor_Eff.js, line 22: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://player.performgroup.com/spieler/releases/1.47.1/ng-spieler.js, line 4: TypeError: screen is undefined
+JavaScript error: https://player.performgroup.com/spieler/releases/1.47.1/ng-spieler.js, line 4: TypeError: screen is undefined
+JavaScript error: https://s0.2mdn.net/5026810/1525422018618/index.js, line 14: TypeError: cjs.Bitmap is not a constructor
+JavaScript error: https://player.performgroup.com/spieler/releases/1.47.1/ng-spieler.js, line 4: TypeError: screen is undefined
+JavaScript error: https://player.performgroup.com/spieler/releases/1.47.1/ng-spieler.js, line 4: TypeError: screen is undefined
+JavaScript error: https://player.performgroup.com/spieler/releases/1.47.1/ng-spieler.js, line 4: TypeError: screen is undefined

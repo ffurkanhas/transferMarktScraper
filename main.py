@@ -102,7 +102,7 @@ def parser(countryStart, competionStart, clubStart, playerStart):
 
             allPlayers = playerMenu.find_elements_by_class_name('active-result')
 
-          playerBreakPoint = 0
+          playerStart = 0
 
           isClubCompleted = True
 
@@ -111,7 +111,7 @@ def parser(countryStart, competionStart, clubStart, playerStart):
 
           allClubs = clubMenu.find_elements_by_class_name('active-result')
 
-        clubBreakPoint = 0
+        clubStart = 0
 
         isCompetitionCompleted = True
 
@@ -120,11 +120,9 @@ def parser(countryStart, competionStart, clubStart, playerStart):
 
         allCompetitions = competitionMenu.find_elements_by_class_name('active-result')
 
-        competitionBreakPoint = 0
+        competionStart = 0
 
     isCountryCompleted = True
-
-    countryBreakPoint = 0
 
     countryMenu = driver.find_element_by_id('land_select_breadcrumb_chzn')
     countryMenu.click()
