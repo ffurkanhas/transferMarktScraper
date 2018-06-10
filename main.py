@@ -1,96 +1,146 @@
-import urllib.request
-import bs4 as bs
-
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support.ui import WebDriverWait
-import time
-import sys
 
-class Unbuffered(object):
-   def __init__(self, stream):
-       self.stream = stream
-   def write(self, data):
-       self.stream.write(data)
-       self.stream.flush()
-   def writelines(self, datas):
-       self.stream.writelines(datas)
-       self.stream.flush()
-   def __getattr__(self, attr):
-       return getattr(self.stream, attr)
+baseUrl = 'https://www.transfermarkt.com'
 
 
-def main():
-  sys.stdout = Unbuffered(sys.stdout)
+
+countryBreakPoint = 0
+competitionBreakPoint = 0
+clubBreakPoint = 0
+playerBreakPoint = 0
+
+isCountryCompleted = False
+isCompetitionCompleted = False
+isClubCompleted = False
+isPlayerCompleted = False
+
+def parser(countryStart, competionStart, clubStart, playerStart):
+  global isCountryCompleted, isCompetitionCompleted, isClubCompleted, isPlayerCompleted
 
   options = webdriver.FirefoxOptions()
   options.add_argument('-headless')
-  driver = webdriver.Firefox()#firefox_options=options)
-  #driver = webdriver.Chrome('D:\chromedriver_win32\chromedriver.exe')
+  global driver
+  driver = webdriver.Firefox(executable_path="/home/toor/Desktop/firefoxGeckoDriver/geckodriver", firefox_options=options)
 
-  driver.get('https://www.transfermarkt.com/#')
-  #musabaka_sec = driver.find_element_by_xpath("//div[@id ='wettbewerb_select_breadcrumb_chzn']")
+  driver.get(baseUrl)
 
-  #lig_sec = driver.find_element_by_xpath("//ul[@class='chzn-results']")
-  #for lig in lig_sec.find_elements_by_tag_name('li'):
+  countryMenu = driver.find_element_by_id('land_select_breadcrumb_chzn')
+  countryMenu.click()
 
-  country_click = driver.find_element_by_id('land_select_breadcrumb_chzn').click()
-  chzn_select = driver.find_elements_by_class_name('chzn-results')
-  i=0
-  j=0
-  for country in chzn_select[0].find_elements_by_tag_name('li'):
-      if(i != 0):
-        country_click = driver.find_element_by_id('land_select_breadcrumb_chzn').click()
-        chzn_select = driver.find_elements_by_class_name('chzn-results')
+  allCountries = driver.find_elements_by_class_name('active-result')
 
-      country.click()
+  for country in range(countryStart, len(allCountries)):
+    isCountryCompleted = False
 
-      time.sleep(1)
+    global countryBreakPoint
+    countryBreakPoint = country
+    country = allCountries[country]
+    countryName = country.text
 
-      for league in chzn_select[1].find_elements_by_tag_name('li'):
-        league_click = driver.find_element_by_id('wettbewerb_select_breadcrumb_chzn').click()
-        chzn_select = driver.find_elements_by_class_name('chzn-results')
-        league.click()
-        for club in chzn_select[2].find_elements_by_tag_name('li'):
-          club_click = driver.find_element_by_id('verein_select_breadcrumb_chzn').click()
-          chzn_select = driver.find_elements_by_class_name('chzn-results')
+    print(countryName)
+
+    country.click()
+
+    competitionMenu = driver.find_element_by_id('wettbewerb_select_breadcrumb_chzn')
+    competitionMenu.click()
+
+    allCompetitions = competitionMenu.find_elements_by_class_name('active-result')
+
+    if len(allCompetitions) > 1:
+
+      for competition in range(competionStart, len(allCompetitions)):
+        isCompetitionCompleted = False
+
+        global competitionBreakPoint
+        competitionBreakPoint = competition
+        competition = allCompetitions[competition]
+        competitionName = competition.text
+
+        print("\t" + competitionName)
+
+        competition.click()
+
+        clubMenu = driver.find_element_by_id('verein_select_breadcrumb_chzn')
+        clubMenu.click()
+
+        allClubs = clubMenu.find_elements_by_class_name('active-result')
+
+        for club in range(clubStart, len(allClubs)):
+          isClubCompleted = False
+
+          global clubBreakPoint
+          clubBreakPoint = club
+          club = allClubs[club]
+          clubName = club.text
+
+          print("\t\t" + clubName)
+
           club.click()
 
-      i+=1
-'''
-      for league in chzn_select[1].find_elements_by_tag_name('li'):
-          if(league.text == 'Competition'): continue
-          league.click()
-          print('League:', league.text)
-          #for club in chzn_select[2].find_elements_by_tag_name('li'):
-          #    club.click()
-          #    print('Club:', club.text)
-'''
-'''
-  for i in range(0,4):
-    print(len(chzn_select[i].find_elements_by_tag_name('li')))
-    for some_thing in chzn_select[i].find_elements_by_tag_name('li'):
-        print(some_thing.text)
-  #wettbewerb_select_breadcrumb_chzn
-  print(driver.current_url)
-'''
+          playerMenu = driver.find_element_by_id('spieler_select_breadcrumb_chzn')
+          playerMenu.click()
 
+          allPlayers = playerMenu.find_elements_by_class_name('active-result')
 
+          for player in range(playerStart, len(allPlayers)):
+            isPlayerCompleted = False
 
+            global playerBreakPoint
+            playerBreakPoint = player
+            player = allPlayers[player]
+            playerName = player.text
 
+            print("\t\t\t" + playerName)
 
+            player.click()
 
+            playerSubmitButton = driver.find_elements_by_class_name('breadcrumb-button')
+            playerSubmitButton[3].click()
 
+            isPlayerCompleted = True
 
+            playerMenu = driver.find_element_by_id('spieler_select_breadcrumb_chzn')
+            playerMenu.click()
 
+            allPlayers = playerMenu.find_elements_by_class_name('active-result')
+
+          isClubCompleted = True
+
+          clubMenu = driver.find_element_by_id('verein_select_breadcrumb_chzn')
+          clubMenu.click()
+
+          allClubs = clubMenu.find_elements_by_class_name('active-result')
+
+        isCompetitionCompleted = True
+
+        competitionMenu = driver.find_element_by_id('wettbewerb_select_breadcrumb_chzn')
+        competitionMenu.click()
+
+        allCompetitions = competitionMenu.find_elements_by_class_name('active-result')
+
+    isCountryCompleted = True
+
+    countryMenu = driver.find_element_by_id('land_select_breadcrumb_chzn')
+    countryMenu.click()
 
 if(__name__ == '__main__'):
-    main()
+  while True:
+    try:
+      parser(countryBreakPoint, competitionBreakPoint, clubBreakPoint, playerBreakPoint)
+      break
+    except Exception as e:
+      print(str(e))
+      globals().get('driver').close()
 
+      if isCountryCompleted is True:
+        countryBreakPoint += 1
+      if isCompetitionCompleted is True:
+        competitionBreakPoint += 1
+      if isClubCompleted is True:
+        clubBreakPoint += 1
+      if isPlayerCompleted is True:
+        playerBreakPoint += 1
 
+      print("Resuming on: " + str(competitionBreakPoint) + ", " + str(competitionBreakPoint) + ", " + str(clubBreakPoint) + ", " + str(playerBreakPoint))
 
-
-
-
-
-
+      pass
