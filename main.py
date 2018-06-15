@@ -1,4 +1,5 @@
 from selenium import webdriver
+import time
 
 baseUrl = 'https://www.transfermarkt.com'
 
@@ -16,9 +17,9 @@ def parser(countryStart, competionStart, clubStart, playerStart):
   global isCountryCompleted, isCompetitionCompleted, isClubCompleted, isPlayerCompleted
 
   options = webdriver.FirefoxOptions()
-  options.add_argument('-headless')
+  #options.add_argument('-headless')
   global driver
-  driver = webdriver.Firefox(executable_path="/home/toor/Desktop/firefoxGeckoDriver/geckodriver", firefox_options=options)
+  driver = webdriver.Firefox(firefox_options=options)
 
   driver.get(baseUrl)
 
@@ -79,15 +80,29 @@ def parser(countryStart, competionStart, clubStart, playerStart):
           playerMenu.click()
 
           allPlayers = playerMenu.find_elements_by_class_name('active-result')
-
+          i = 0
           for player in range(playerStart, len(allPlayers)):
+
             isPlayerCompleted = False
 
             global playerBreakPoint
             playerBreakPoint = player
             player = allPlayers[player]
             playerName = player.text
+            # Info about the player. First iteration throws error, after that runs clearly.
+            if(i != 0):
+              player_stats_all = driver.find_elements_by_class_name('auflistung')
 
+              player_stats_main = player_stats_all[2]
+              player_first_infos = driver.find_element_by_class_name('dataName')
+              player_number = player_first_infos.find_element_by_tag_name('span').text
+              player_name = player_first_infos.find_element_by_tag_name('h1').text
+              print("Number: ", player_number)
+              print("Name: ", player_name)
+              for stat in player_stats_main.find_elements_by_tag_name('tr'):
+                clean_info = stat.find_element_by_tag_name('td')
+                print(clean_info.text)
+            # Need to put every player info between this comment lines. (in if statement)
             print("\t\t\t" + playerName)
 
             player.click()
@@ -95,12 +110,14 @@ def parser(countryStart, competionStart, clubStart, playerStart):
             playerSubmitButton = driver.find_elements_by_class_name('breadcrumb-button')
             playerSubmitButton[3].click()
 
+
             isPlayerCompleted = True
 
             playerMenu = driver.find_element_by_id('spieler_select_breadcrumb_chzn')
             playerMenu.click()
 
             allPlayers = playerMenu.find_elements_by_class_name('active-result')
+            i+=1
 
           playerStart = 0
 
