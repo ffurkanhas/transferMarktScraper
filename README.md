@@ -2,7 +2,7 @@
 
 www.transfermarkt.com scraper
 
-##Getting Started
+## Getting Started
 
 With these instructions you can create your environment and run in your local machine.
 
@@ -26,11 +26,11 @@ After that you need selenium library for python:
 pip3 install selenium
 ```
 
-##Running the tests
+## Running the tests
 
 log.txt file holds the last read in that system. This way you do not need to start from the first data.
 
-##For presentation: 
+## For presentation: 
 
 players.json holds:
 
