@@ -95,13 +95,41 @@ def parser(countryStart, competionStart, clubStart, playerStart):
 
               player_stats_main = player_stats_all[2]
               player_first_infos = driver.find_element_by_class_name('dataName')
+              player_price_dirty = player_stats_all[1]
               player_number = player_first_infos.find_element_by_tag_name('span').text
               player_name = player_first_infos.find_element_by_tag_name('h1').text
               print("Number: ", player_number)
               print("Name: ", player_name)
+              j=0
+              player_bdate = ""
+              player_nation = ""
+              player_position = ""
+              player_price = ""
+              player_current_club = ""
+              player_loaned_from = ""
               for stat in player_stats_main.find_elements_by_tag_name('tr'):
                 clean_info = stat.find_element_by_tag_name('td')
-                print(clean_info.text)
+#                print(clean_info.text)
+
+                if(stat.find_element_by_tag_name('th').text.strip() == 'Date of birth:'):
+                  player_bdate = clean_info.text.strip()
+                  print(player_bdate)
+                elif(stat.find_element_by_tag_name('th').text.strip() == 'Nationality:'):
+                  player_nation = clean_info.text.strip()
+                  print(player_nation)
+                elif(stat.find_element_by_tag_name('th').text.strip() == 'Position:'):
+                  player_position = clean_info.text.strip()
+                  print(player_position)
+                elif(stat.find_element_by_tag_name('th').text.strip() == 'Current club:'):
+                  player_current_club = clean_info.text.strip()
+                  print(player_current_club)
+                elif(stat.find_element_by_tag_name('th').text.strip() == 'Loan club:'):
+                  player_loaned_from = clean_info.text.strip()
+                  print(player_loaned_from)
+
+              player_price = player_price_dirty.find_element_by_class_name('zeile-oben').find_element_by_class_name('right-td').text.strip()
+              print(player_price)
+
             # Need to put every player info between this comment lines. (in if statement)
             print("\t\t\t" + playerName)
 
