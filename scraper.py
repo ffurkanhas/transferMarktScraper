@@ -3,6 +3,7 @@ import json
 from datetime import datetime
 import time
 from selenium.webdriver.common.keys import Keys
+from pynput.keyboard import Key, Controller
 baseUrl = 'https://www.transfermarkt.com'
 
 playersJson = open('players.json', 'a')
@@ -24,14 +25,16 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
     #options.add_argument('-headless')
     global driver
     driver = webdriver.Firefox(executable_path="/home/toor/Desktop/firefoxGeckoDriver/geckodriver", firefox_options=options)
-    driver.maximize_window()
-
+    keyboard = Controller()
+    keyboard.press(Key.cmd)
+    keyboard.press(Key.right)
+    keyboard.release(Key.cmd)
+    keyboard.release(Key.right)
     driver.get(baseUrl)
-    time.sleep(3)
 
     countryDropDownMenu = driver.find_element_by_id('land_select_breadcrumb_chzn')
     countryDropDownMenu.click()
-    time.sleep(3)
+    time.sleep(2)
     allCountriesList = driver.find_elements_by_class_name('active-result')
 
     for countryNumber in range(countryStart, len(allCountriesList)):
@@ -60,13 +63,11 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
             time.sleep(2)
             allClubLinks = driver.find_elements_by_class_name('hauptlink.no-border-links.show-for-small.show-for-pad')
 
+
             for clubNumber in range(clubStart, len(allClubLinks)):
                 global clubBreakPoint
                 clubBreakPoint = clubNumber
-                time.sleep(3)
                 clubNameAndLink = allClubLinks[clubNumber].find_element_by_class_name('vereinprofil_tooltip.tooltipstered')
-                print("ok")
-                time.sleep(2)
                 clubName = clubNameAndLink.text
                 print("\t" + str(clubNumber) + ": " + clubName)
                 clubNameAndLink.click()
