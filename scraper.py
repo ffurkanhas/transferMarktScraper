@@ -15,7 +15,7 @@ competitionCompleted = False
 clubCompleted = False
 playerCompleted = False
 
-countryBreakPoint = 0
+countryBreakPoint = 1
 competitionBreakPoint = 0
 clubBreakPoint = 0
 playerBreakPoint = 0
@@ -34,10 +34,11 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
 
     countryDropDownMenu = driver.find_element_by_id('land_select_breadcrumb_chzn')
     countryDropDownMenu.click()
-    time.sleep(2)
+    time.sleep(3)
     allCountriesList = driver.find_elements_by_class_name('active-result')
 
     for countryNumber in range(countryStart, len(allCountriesList)):
+        countryStart = 0
         country = allCountriesList[countryNumber]
         global countryBreakPoint
         countryBreakPoint = countryNumber
@@ -53,6 +54,7 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
         allCompetitionListTable = responsiveDiv[0].find_elements_by_class_name('inline-table')
 
         for competitionNumber in range(competitionStart, len(allCompetitionListTable)):
+            competitionStart = 0
             global competitionBreakPoint
             competitionBreakPoint = competitionNumber
             allTdsForCompetitionLinks = allCompetitionListTable[competitionNumber].find_elements_by_tag_name("td")
@@ -60,11 +62,10 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
             competitionName = allTdsForCompetitionLinks[1].text
             print("\t" + str(competitionName).strip('\n'))
             allTdsForCompetitionLinks[1].click()
-            time.sleep(2)
             allClubLinks = driver.find_elements_by_class_name('hauptlink.no-border-links.show-for-small.show-for-pad')
 
-
             for clubNumber in range(clubStart, len(allClubLinks)):
+                clubStart = 0
                 global clubBreakPoint
                 clubBreakPoint = clubNumber
                 clubNameAndLink = allClubLinks[clubNumber].find_element_by_class_name('vereinprofil_tooltip.tooltipstered')
@@ -72,6 +73,20 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
                 print("\t" + str(clubNumber) + ": " + clubName)
                 clubNameAndLink.click()
 
+                allPlayerLinks = driver.find_elements_by_class_name('posrela')
+
+                for playerNumber in range(playerStart, len(allPlayerLinks)):
+                    playerStart = 0
+                    global playerBreakPoint
+                    playerBreakPoint = playerNumber
+                    playerNameAndLink = allPlayerLinks[playerNumber].find_element_by_class_name('spielprofil_tooltip.tooltipstered')
+                    playerName = playerNameAndLink.text
+                    print("\t\t" + str(playerNumber) + ": " + playerName)
+                    playerNameAndLink.click()
+
+                    #repeat steps for other players
+                    driver.back()
+                    allPlayerLinks = driver.find_elements_by_class_name('posrela')
 
                 #repeat steps for other clubs
                 driver.back()
