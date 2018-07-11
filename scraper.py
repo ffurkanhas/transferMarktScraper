@@ -90,15 +90,14 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
 
 if(__name__ == '__main__'):
     logTxt.write('\n----------------\n' + str(datetime.now()))
-    # while True:
-    #     try:
-    #
-    #         break
-    #     except Exception as e:
-    #         print(str(e))
-    #         globals().get('driver').close()
-    #         pass
-    parser(countryBreakPoint, competitionBreakPoint, clubBreakPoint, playerBreakPoint)
+    while True:
+        try:
+            parser(countryBreakPoint, competitionBreakPoint, clubBreakPoint, playerBreakPoint)
+            break
+        except Exception as e:
+            print(str(e))
+            globals().get('driver').close()
+            pass
     logTxt.close()
     # allTdsForClubLinks = driver.find_elements_by_class_name('hauptlink no-border-links hide-for-small hide-for-pad')
     #
