@@ -9323,3 +9323,132 @@ JavaScript error: , line 0: uncaught exception: [object Object]
 JavaScript error: https://tags.bkrtx.com/js/bk-coretag.js, line 5: NS_ERROR_UNEXPECTED: 
 JavaScript error: , line 0: uncaught exception: [object Object]
 JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: https://tags.bkrtx.com/js/bk-coretag.js, line 5: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://tags.bkrtx.com/js/bk-coretag.js, line 5: NS_ERROR_UNEXPECTED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1531358566404	geckodriver	INFO	geckodriver 0.20.1
+1531358566408	geckodriver	INFO	Listening on 127.0.0.1:43979
+1531358567408	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gbwFyKg4C4KJ"
+1531358568682	Marionette	INFO	Listening on port 39395
+1531358568739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tags.bkrtx.com/js/bk-coretag.js, line 5: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://tags.bkrtx.com/js/bk-coretag.js, line 5: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://tags.bkrtx.com/js/bk-coretag.js, line 5: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://tags.bkrtx.com/js/bk-coretag.js, line 5: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://tags.bkrtx.com/js/bk-coretag.js, line 5: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://tags.bkrtx.com/js/bk-coretag.js, line 5: NS_ERROR_UNEXPECTED: 
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: , line 0: uncaught exception: [object Object]
+[Child 26301, Chrome_ChildThread] WARNING: pipe error (39): Connection reset by peer: file /build/firefox-mzzHJ1/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 26301, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mzzHJ1/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531358784983	geckodriver	INFO	geckodriver 0.20.1
+1531358784986	geckodriver	INFO	Listening on 127.0.0.1:59333
+1531358785996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TmrOyk1SQQ4d"
+1531358787329	Marionette	INFO	Listening on port 44503
+1531358787406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tags.bkrtx.com/js/bk-coretag.js, line 5: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://tags.bkrtx.com/js/bk-coretag.js, line 5: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://tags.bkrtx.com/js/bk-coretag.js, line 5: NS_ERROR_UNEXPECTED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 28246, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-mzzHJ1/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 28246, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mzzHJ1/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531358836047	geckodriver	INFO	geckodriver 0.20.1
+1531358836051	geckodriver	INFO	Listening on 127.0.0.1:35841
+1531358837057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JR1tFOMTkozp"
+1531358838264	Marionette	INFO	Listening on port 37093
+1531358838366	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531358855437	geckodriver	INFO	geckodriver 0.20.1
+1531358855441	geckodriver	INFO	Listening on 127.0.0.1:50643
+1531358856442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NkPaB4kDGq2v"
+1531358857683	Marionette	INFO	Listening on port 45065
+1531358857755	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1531358872636	geckodriver	INFO	geckodriver 0.20.1
+1531358872640	geckodriver	INFO	Listening on 127.0.0.1:41509
+1531358873647	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mzzpx2VuPTvi"
+1531358874904	Marionette	INFO	Listening on port 38939
+1531358874962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tags.bkrtx.com/js/bk-coretag.js, line 5: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://tags.bkrtx.com/js/bk-coretag.js, line 5: NS_ERROR_UNEXPECTED: 
+JavaScript error: https://tags.bkrtx.com/js/bk-coretag.js, line 5: NS_ERROR_UNEXPECTED: 
+[Child 30300, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-mzzHJ1/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 30300, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-mzzHJ1/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 30300, Chrome_ChildThread] WARNING: pipe error (39): Connection reset by peer: file /build/firefox-mzzHJ1/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 30300, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mzzHJ1/firefox-61.0+build3/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1531385225794	geckodriver	INFO	geckodriver 0.20.1
+1531385225804	geckodriver	INFO	Listening on 127.0.0.1:53541
+1531385226799	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VrOd4thEtqRe"
+1531385228617	Marionette	INFO	Listening on port 33863
+1531385228706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html, line 8: ReferenceError: buildAdSlot is not defined
+JavaScript error: https://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html, line 8: TypeError: _.x is not a function
+JavaScript error: https://tpc.googlesyndication.com/safeframe/1-0-29/html/container.html, line 8: ReferenceError: buildGlaurungAds is not defined
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: , line 0: uncaught exception: [object Object]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00B0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00B0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00B0,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1531385467951	geckodriver	INFO	geckodriver 0.20.1
+1531385467954	geckodriver	INFO	Listening on 127.0.0.1:54093
+1531385468962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JRWtzmIV7uEC"
+1531385470322	Marionette	INFO	Listening on port 35825
+1531385470393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: , line 0: uncaught exception: [object Object]
