@@ -20,10 +20,21 @@ If pip3 does not install via python3 install:
 sudo apt-get install pip3
 ``` 
 
-After that you need selenium library for python:
+Firefox geckodriver installation:
+
+https://github.com/mozilla/geckodriver/releases
+
+Python3 geckodriver usage:
+
+![gecko implement image](http://prntscr.com/k5k82j)
+
+After that you need libraries for project:
 
 ```
 pip3 install selenium
+pip3 install pynput
+pip3 install json
+pip3 install datetime
 ```
 
 ## Running the tests
