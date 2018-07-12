@@ -95,7 +95,7 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
                 allPlayerLinks = driver.find_elements_by_class_name('posrela')
                 currentClubUrl = driver.current_url
 
-                for playerNumber in range(playerStart, len(allPlayerLinks)):
+                for playerNumber in range(playerStart, len(allPlayerLinks) - 1):
                     playersJson = open('players.json', 'a')
                     global playerBreakPoint
                     playerBreakPoint = playerNumber
