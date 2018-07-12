@@ -26,7 +26,7 @@ https://github.com/mozilla/geckodriver/releases
 
 Python3 geckodriver usage:
 
-![gecko implement image](http://prntscr.com/k5k82j)
+![gecko_implement_image](https://image.ibb.co/h9BXGo/gecko_implement.jpg)
 
 After that you need libraries for project:
 
