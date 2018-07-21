@@ -2,11 +2,10 @@ from selenium import webdriver
 import json
 from datetime import datetime
 import time
-from selenium.webdriver.common.keys import Keys
 from pynput.keyboard import Key, Controller
+import os.path
+
 baseUrl = 'https://www.transfermarkt.com'
-
-
 
 countryCompleted = False
 competitionCompleted = False
@@ -60,12 +59,20 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
             allTdsForCompetitionLinks[1].click()
 
             competitionBreakPoint = 0
+
+            if 'box-content' in driver.page_source:
+                tempBoxContent = driver.find_element_by_class_name('box-content')
+                if 'marktwert' in tempBoxContent.get_attribute('innerHTML'):
+                    competitionValueField = tempBoxContent.find_element_by_class_name('marktwert')
+                    competitionValue = competitionValueField.find_element_by_css_selector('a').text
+                    print("Competition Value: " + competitionValue)
+
             allClubLinks = driver.find_elements_by_class_name('hauptlink.no-border-links.show-for-small.show-for-pad')
 
             for clubNumber in range(clubStart, len(allClubLinks)):
                 teamsJson = open('teams.json', 'a')
                 keyboard.press(Key.down)
-                time.sleep(1)
+                time.sleep(0.5)
                 keyboard.release(Key.down)
                 global clubBreakPoint
                 clubBreakPoint = clubNumber
@@ -96,7 +103,12 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
                 currentClubUrl = driver.current_url
 
                 for playerNumber in range(playerStart, len(allPlayerLinks)):
-                    playersJson = open('players.json', 'a')
+                    if not os.path.isfile(competitionName + '.json'):
+                        with open(competitionName + '.json', 'a') as file:
+                            file.write("[")
+                            file.close()
+
+                    playersJson = open(competitionName + '.json', 'a')
                     global playerBreakPoint
                     playerBreakPoint = playerNumber
                     playerClickFlag = False
@@ -132,6 +144,7 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
                         playerDict['current_club'] = clubName
                         playerDict['price'] = ""
                         playerDict['updated_date'] = str(datetime.now())
+                        playerDict['player_index'] = str(countryNumber) + ", " + str(competitionNumber) + ", " + str(clubNumber) + ", " + str(playerNumber)
 
                         json.dump(playerDict, playersJson, indent=4, ensure_ascii=False)
                         playersJson.write(',')
@@ -148,7 +161,6 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
                     playerStart = 0
 
                     logTxt = open('log.txt', 'a')
-                    logTxt.write('\n')
                     logTxt.write(':' + str(countryNumber) + "," + str(competitionNumber) + "," + str(clubNumber) + "," + str(playerNumber) + "\n")
                     logTxt.close()
 
@@ -159,6 +171,9 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
                 driver.back()
                 allClubLinks = driver.find_elements_by_class_name('hauptlink.no-border-links.show-for-small.show-for-pad')
 
+            with open(competitionName + '.json', 'a') as file:
+                file.write("{}]")
+                file.close()
             #repeat steps for other competitions
             countryBreakPoint = 0
             driver.back()
@@ -174,17 +189,18 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
 if(__name__ == '__main__'):
     with open('log.txt', 'r') as f:
         lines = f.read().splitlines()
-        last_line = lines[-1]
-        resumeNumbers = last_line[1:].split(',')
+        if (lines):
+            last_line = lines[-1]
+            resumeNumbers = last_line[1:].split(',')
 
-    if len(resumeNumbers) == 4:
-        countryBreakPoint = int(resumeNumbers[0])
-        competitionBreakPoint = int(resumeNumbers[1])
-        clubBreakPoint = int(resumeNumbers[2])
-        playerBreakPoint = int(resumeNumbers[3])
-        countryCompleted = True
-        competitionCompleted = True
-        clubCompleted = True
+            if len(resumeNumbers) == 4:
+                countryBreakPoint = int(resumeNumbers[0])
+                competitionBreakPoint = int(resumeNumbers[1])
+                clubBreakPoint = int(resumeNumbers[2])
+                playerBreakPoint = int(resumeNumbers[3])
+                countryCompleted = True
+                competitionCompleted = True
+                clubCompleted = True
 
     while True:
         try:
