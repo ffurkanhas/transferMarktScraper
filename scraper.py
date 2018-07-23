@@ -19,7 +19,6 @@ playerBreakPoint = 0
 
 def parser(countryStart, competitionStart, clubStart, playerStart):
     options = webdriver.FirefoxOptions()
-    #options.add_argument('-headless')
     global driver
     driver = webdriver.Firefox(executable_path="/home/toor/Desktop/firefoxGeckoDriver/geckodriver", firefox_options=options)
     keyboard = Controller()
@@ -50,7 +49,9 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
         allCompetitionListTable = responsiveDiv[0].find_elements_by_class_name('inline-table')
 
         for competitionNumber in range(competitionStart, len(allCompetitionListTable)):
+            competitionsJson = open('competitions.json', 'a')
             global competitionBreakPoint
+            global competitionCompleted
             competitionBreakPoint = competitionNumber
             allTdsForCompetitionLinks = allCompetitionListTable[competitionNumber].find_elements_by_tag_name("td")
 
@@ -60,12 +61,25 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
 
             competitionBreakPoint = 0
 
+            competitionValue = ""
+
             if 'box-content' in driver.page_source:
                 tempBoxContent = driver.find_element_by_class_name('box-content')
                 if 'marktwert' in tempBoxContent.get_attribute('innerHTML'):
                     competitionValueField = tempBoxContent.find_element_by_class_name('marktwert')
                     competitionValue = competitionValueField.find_element_by_css_selector('a').text
                     print("Competition Value: " + competitionValue)
+
+            if competitionCompleted is False:
+                competitionDict = {}
+                competitionDict['name'] = competitionName
+                competitionDict['total_value'] = competitionValue
+
+                json.dump(competitionDict, competitionsJson, indent=4, ensure_ascii=False)
+                competitionsJson.write(',')
+                competitionsJson.close()
+
+            competitionCompleted = True
 
             allClubLinks = driver.find_elements_by_class_name('hauptlink.no-border-links.show-for-small.show-for-pad')
 
@@ -137,12 +151,19 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
                                 player_position = clean_info.text.strip()
 
                         playerDict = {}
+
+                        if 'dataMarktwert' in driver.page_source:
+                            playerValueField = driver.find_element_by_class_name('dataMarktwert')
+                            playerValue = playerValueField.find_element_by_css_selector('a').text
+                            playerValue += " " + playerValueField.find_element_by_class_name('waehrung').text
+                            playerValue = playerValue[:playerValue.index("€") + 1]
+                            playerDict['value'] = playerValue
+
                         playerDict['name'] = playerName
                         playerDict['date_of_birth'] = player_bdate
                         playerDict['nationality'] = player_nation
                         playerDict['position'] = player_position
                         playerDict['current_club'] = clubName
-                        playerDict['price'] = ""
                         playerDict['updated_date'] = str(datetime.now())
                         playerDict['player_index'] = str(countryNumber) + ", " + str(competitionNumber) + ", " + str(clubNumber) + ", " + str(playerNumber)
 
@@ -174,6 +195,8 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
             with open(competitionName + '.json', 'a') as file:
                 file.write("{}]")
                 file.close()
+
+            competitionCompleted = False
             #repeat steps for other competitions
             countryBreakPoint = 0
             driver.back()
