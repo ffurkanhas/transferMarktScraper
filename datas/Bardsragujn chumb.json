@@ -1,0 +1,2161 @@
+[{
+    "value": "200 Th. €",
+    "name": "Andrija Dragojevic",
+    "date_of_birth": "Dec 25, 1991",
+    "nationality": "Montenegro",
+    "position": "Goalkeeper",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:36:07.583039",
+    "player_index": "10, 0, 0, 0"
+},[{
+    "value": "125 Th. €",
+    "name": "Gor Manukyan",
+    "date_of_birth": "Sep 27, 1993",
+    "nationality": "Armenia",
+    "position": "Goalkeeper",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:36:17.398915",
+    "player_index": "10, 0, 0, 1"
+},[{
+    "value": "100 Th. €",
+    "name": "Evgeni Kobozev",
+    "date_of_birth": "Jan 11, 1990",
+    "nationality": "Russia",
+    "position": "Goalkeeper",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:36:26.789857",
+    "player_index": "10, 0, 0, 2"
+},[{
+    "value": "25 Th. €",
+    "name": "Vardan Shahatuni",
+    "date_of_birth": "Mar 13, 1998",
+    "nationality": "Armenia",
+    "position": "Goalkeeper",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:36:37.148279",
+    "player_index": "10, 0, 0, 3"
+},[{
+    "value": "25 Th. €",
+    "name": "Sevak Aslanyan",
+    "date_of_birth": "May 17, 1998",
+    "nationality": "Armenia",
+    "position": "Goalkeeper",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:36:45.336601",
+    "player_index": "10, 0, 0, 4"
+},[{
+    "value": "400 Th. €",
+    "name": "Maksim Zhestokov",
+    "date_of_birth": "Jun 19, 1991",
+    "nationality": "Russia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:36:55.077696",
+    "player_index": "10, 0, 0, 5"
+},[{
+    "value": "250 Th. €",
+    "name": "Vitali Stezhko",
+    "date_of_birth": "Jan 29, 1997",
+    "nationality": "Russia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:37:03.053059",
+    "player_index": "10, 0, 0, 6"
+},[{
+    "value": "200 Th. €",
+    "name": "Artur Kartashyan",
+    "date_of_birth": "Jan 8, 1997",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:37:11.551021",
+    "player_index": "10, 0, 0, 7"
+},[{
+    "value": "200 Th. €",
+    "name": "Didier Boris Kadio",
+    "date_of_birth": "Apr 5, 1990",
+    "nationality": "Cote d'Ivoire",
+    "position": "Defender - Centre-Back",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:37:18.720422",
+    "player_index": "10, 0, 0, 8"
+},[{
+    "value": "150 Th. €",
+    "name": "Aram Shakhnazaryan",
+    "date_of_birth": "Apr 21, 1994",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:37:27.088682",
+    "player_index": "10, 0, 0, 9"
+},[{
+    "value": "200 Th. €",
+    "name": "Levon Hayrapetyan",
+    "date_of_birth": "Apr 17, 1989",
+    "nationality": "Armenia\n  Germany",
+    "position": "Defender - Left-Back",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:37:35.922199",
+    "player_index": "10, 0, 0, 10"
+},[{
+    "value": "175 Th. €",
+    "name": "Serob Grigoryan",
+    "date_of_birth": "Feb 4, 1995",
+    "nationality": "Armenia\n  Russia",
+    "position": "Defender - Left-Back",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:37:44.787076",
+    "player_index": "10, 0, 0, 11"
+},[{
+    "value": "150 Th. €",
+    "name": "Bacar Baldé",
+    "date_of_birth": "Jan 15, 1992",
+    "nationality": "Guinea-Bissau",
+    "position": "Defender - Left-Back",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:37:53.163086",
+    "player_index": "10, 0, 0, 12"
+},[{
+    "value": "200 Th. €",
+    "name": "Armen Manucharyan",
+    "date_of_birth": "Feb 3, 1995",
+    "nationality": "Armenia",
+    "position": "Defender - Right-Back",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:38:02.604105",
+    "player_index": "10, 0, 0, 13"
+},[{
+    "value": "150 Th. €",
+    "name": "Robert Hakobyan",
+    "date_of_birth": "Oct 22, 1996",
+    "nationality": "Armenia",
+    "position": "Defender - Right-Back",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:38:13.571363",
+    "player_index": "10, 0, 0, 14"
+},[{
+    "value": "150 Th. €",
+    "name": "Vyacheslav Dmitriev",
+    "date_of_birth": "May 28, 1990",
+    "nationality": "Russia",
+    "position": "Defender - Right-Back",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:38:24.367803",
+    "player_index": "10, 0, 0, 15"
+},[{
+    "value": "250 Th. €",
+    "name": "Karlen Mkrtchyan",
+    "date_of_birth": "Nov 25, 1988",
+    "nationality": "Armenia",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:38:32.933537",
+    "player_index": "10, 0, 0, 16"
+},[{
+    "value": "200 Th. €",
+    "name": "Maksym Trusevich",
+    "date_of_birth": "Aug 1, 1985",
+    "nationality": "Ukraine\n  Russia",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:38:40.874176",
+    "player_index": "10, 0, 0, 17"
+},[{
+    "value": "150 Th. €",
+    "name": "Vahagn Hayrapetyan",
+    "date_of_birth": "Jun 14, 1997",
+    "nationality": "Armenia",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:38:48.384728",
+    "player_index": "10, 0, 0, 18"
+},[{
+    "value": "150 Th. €",
+    "name": "Marshal Mfon Johnson",
+    "date_of_birth": "Dec 12, 1989",
+    "nationality": "Nigeria",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:38:58.441461",
+    "player_index": "10, 0, 0, 19"
+},[{
+    "value": "75 Th. €",
+    "name": "Artur Nadiryan",
+    "date_of_birth": "Mar 27, 1998",
+    "nationality": "Armenia",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:39:20.890807",
+    "player_index": "10, 0, 0, 20"
+},[{
+    "value": "125 Th. €",
+    "name": "Hovhannes Poghosyan",
+    "date_of_birth": "Dec 17, 1997",
+    "nationality": "Armenia",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:39:29.163903",
+    "player_index": "10, 0, 0, 21"
+},[{
+    "value": "300 Th. €",
+    "name": "Denis Voynov",
+    "date_of_birth": "Mar 1, 1990",
+    "nationality": "Russia",
+    "position": "Midfielder - Right Midfield",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:39:36.409750",
+    "player_index": "10, 0, 0, 22"
+},[{
+    "value": "50 Th. €",
+    "name": "Armen Nahapetyan",
+    "date_of_birth": "Jul 24, 1999",
+    "nationality": "Armenia",
+    "position": "Midfielder - Right Midfield",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:39:45.624186",
+    "player_index": "10, 0, 0, 23"
+},[{
+    "value": "225 Th. €",
+    "name": "Alik Arakelyan",
+    "date_of_birth": "May 21, 1996",
+    "nationality": "Armenia",
+    "position": "Midfielder - Left Midfield",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:39:54.330245",
+    "player_index": "10, 0, 0, 24"
+},[{
+    "value": "50 Th. €",
+    "name": "Hovhannes Ilangyozyan",
+    "date_of_birth": "Jan 14, 1997",
+    "nationality": "Armenia",
+    "position": "Midfielder - Left Midfield",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:40:02.007012",
+    "player_index": "10, 0, 0, 25"
+},[{
+    "value": "300 Th. €",
+    "name": "Petros Avetisyan",
+    "date_of_birth": "Jan 7, 1996",
+    "nationality": "Armenia",
+    "position": "Midfielder - Attacking Midfield",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:40:10.010280",
+    "player_index": "10, 0, 0, 26"
+},[{
+    "value": "125 Th. €",
+    "name": "Erik Vardanyan",
+    "date_of_birth": "Jun 7, 1998",
+    "nationality": "Armenia",
+    "position": "Midfielder - Attacking Midfield",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:40:19.211211",
+    "player_index": "10, 0, 0, 27"
+},[{
+    "value": "25 Th. €",
+    "name": "Karen Khatuev",
+    "date_of_birth": "Apr 22, 1998",
+    "nationality": "Armenia",
+    "position": "Forward - Left Winger",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:40:31.097920",
+    "player_index": "10, 0, 0, 28"
+},[{
+    "value": "300 Th. €",
+    "name": "Albert Bogatyrev",
+    "date_of_birth": "Jun 14, 1994",
+    "nationality": "Russia\n  Moldova",
+    "position": "Forward - Right Winger",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:40:39.516716",
+    "player_index": "10, 0, 0, 29"
+},[{
+    "value": "100 Th. €",
+    "name": "Razmik Hakobyan",
+    "date_of_birth": "Feb 9, 1996",
+    "nationality": "Armenia",
+    "position": "Forward - Right Winger",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:40:49.052938",
+    "player_index": "10, 0, 0, 30"
+},[{
+    "value": "300 Th. €",
+    "name": "Ruslan Koryan",
+    "date_of_birth": "Jun 15, 1988",
+    "nationality": "Armenia\n  Russia",
+    "position": "Forward - Second Striker",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:41:01.733524",
+    "player_index": "10, 0, 0, 31"
+},[{
+    "value": "225 Th. €",
+    "name": "Drissa Diarrassouba",
+    "date_of_birth": "Nov 15, 1994",
+    "nationality": "Cote d'Ivoire",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:41:09.871154",
+    "player_index": "10, 0, 0, 32"
+},[{
+    "value": "150 Th. €",
+    "name": "Mohamed Konaté",
+    "date_of_birth": "Dec 12, 1997",
+    "nationality": "Cote d'Ivoire",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:41:20.321123",
+    "player_index": "10, 0, 0, 33"
+},[{
+    "value": "100 Th. €",
+    "name": "Robert Minasyan",
+    "date_of_birth": "Apr 8, 1997",
+    "nationality": "Armenia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Pyunik Erevan",
+    "updated_date": "2018-07-23 23:41:31.166009",
+    "player_index": "10, 0, 0, 34"
+},[{
+    "value": "300 Th. €",
+    "name": "Ognjen Cancarevic",
+    "date_of_birth": "Sep 25, 1989",
+    "nationality": "Serbia",
+    "position": "Goalkeeper",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:43:59.672330",
+    "player_index": "10, 0, 1, 0"
+},[{
+    "value": "75 Th. €",
+    "name": "Arsen Petrosyan",
+    "date_of_birth": "Sep 27, 1991",
+    "nationality": "Armenia",
+    "position": "Goalkeeper",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:45:36.607460",
+    "player_index": "10, 0, 1, 1"
+},[{
+    "value": "50 Th. €",
+    "name": "Henri Avagyan",
+    "date_of_birth": "Jan 16, 1996",
+    "nationality": "Armenia",
+    "position": "Goalkeeper",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:45:44.796904",
+    "player_index": "10, 0, 1, 2"
+},[{
+    "value": "300 Th. €",
+    "name": "Taron Voskanyan",
+    "date_of_birth": "Feb 22, 1993",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:45:52.136359",
+    "player_index": "10, 0, 1, 3"
+},[{
+    "value": "225 Th. €",
+    "name": "Danijel Stojkovic",
+    "date_of_birth": "Aug 14, 1990",
+    "nationality": "Serbia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:46:00.350943",
+    "player_index": "10, 0, 1, 4"
+},[{
+    "value": "225 Th. €",
+    "name": "Oliver Praznovsky",
+    "date_of_birth": "Feb 15, 1991",
+    "nationality": "Slovakia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:46:08.301343",
+    "player_index": "10, 0, 1, 5"
+},[{
+    "value": "175 Th. €",
+    "name": "Andranik Voskanyan",
+    "date_of_birth": "Apr 11, 1990",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:46:16.024335",
+    "player_index": "10, 0, 1, 6"
+},[{
+    "value": "150 Th. €",
+    "name": "Goran Antonic",
+    "date_of_birth": "Nov 3, 1990",
+    "nationality": "Serbia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:46:23.789982",
+    "player_index": "10, 0, 1, 7"
+},[{
+    "value": "100 Th. €",
+    "name": "Aleksandr Petrosyan",
+    "date_of_birth": "May 28, 1986",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:46:32.082632",
+    "player_index": "10, 0, 1, 8"
+},[{
+    "value": "225 Th. €",
+    "name": "Gagik Daghbashyan",
+    "date_of_birth": "Oct 19, 1990",
+    "nationality": "Armenia",
+    "position": "Defender - Left-Back",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:46:38.318133",
+    "player_index": "10, 0, 1, 9"
+},[{
+    "value": "150 Th. €",
+    "name": "Alan Pires da Graça",
+    "date_of_birth": "Jan 4, 1993",
+    "nationality": "Brazil",
+    "position": "Defender - Left-Back",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:46:46.137252",
+    "player_index": "10, 0, 1, 10"
+},[{
+    "value": "175 Th. €",
+    "name": "Mladen Zeljkovic",
+    "date_of_birth": "Nov 18, 1987",
+    "nationality": "Serbia\n  Bosnia-Herzegovina",
+    "position": "Defender - Right-Back",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:46:54.371126",
+    "player_index": "10, 0, 1, 11"
+},[{
+    "value": "150 Th. €",
+    "name": "Konstantin Morozov",
+    "date_of_birth": "May 13, 1992",
+    "nationality": "Russia",
+    "position": "Defender - Right-Back",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:47:03.014120",
+    "player_index": "10, 0, 1, 12"
+},[{
+    "value": "225 Th. €",
+    "name": "Artak Grigoryan",
+    "date_of_birth": "Oct 19, 1987",
+    "nationality": "Armenia",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:47:11.316063",
+    "player_index": "10, 0, 1, 13"
+},[{
+    "value": "200 Th. €",
+    "name": "Danilo Sekulic",
+    "date_of_birth": "Apr 18, 1990",
+    "nationality": "Serbia",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:47:19.291571",
+    "player_index": "10, 0, 1, 14"
+},[{
+    "value": "75 Th. €",
+    "name": "Benik Hovhannisyan",
+    "date_of_birth": "May 1, 1993",
+    "nationality": "Armenia",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:47:27.238371",
+    "player_index": "10, 0, 1, 15"
+},[{
+    "value": "50 Th. €",
+    "name": "Odaílson",
+    "date_of_birth": "Feb 20, 1997",
+    "nationality": "Brazil",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:47:35.048868",
+    "player_index": "10, 0, 1, 16"
+},[{
+    "value": "200 Th. €",
+    "name": "Artur Yedigaryan",
+    "date_of_birth": "Jun 26, 1987",
+    "nationality": "Armenia",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:47:43.170627",
+    "player_index": "10, 0, 1, 17"
+},[{
+    "value": "150 Th. €",
+    "name": "Sargis Shahinyan",
+    "date_of_birth": "Sep 10, 1995",
+    "nationality": "Armenia",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:47:50.843055",
+    "player_index": "10, 0, 1, 18"
+},[{
+    "value": "75 Th. €",
+    "name": "Nairi Minasyan",
+    "date_of_birth": "Aug 26, 1995",
+    "nationality": "Armenia",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:47:58.533478",
+    "player_index": "10, 0, 1, 19"
+},[{
+    "value": "300 Th. €",
+    "name": "Artak Yedigaryan",
+    "date_of_birth": "Mar 18, 1990",
+    "nationality": "Armenia",
+    "position": "Midfielder - Left Midfield",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:48:06.461317",
+    "player_index": "10, 0, 1, 20"
+},[{
+    "value": "100 Th. €",
+    "name": "Ashot Sardaryan",
+    "date_of_birth": "Mar 23, 1992",
+    "nationality": "Armenia",
+    "position": "Midfielder - Left Midfield",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:48:14.353500",
+    "player_index": "10, 0, 1, 21"
+},[{
+    "value": "250 Th. €",
+    "name": "Artem Simonyan",
+    "date_of_birth": "Feb 20, 1995",
+    "nationality": "Armenia\n  Russia",
+    "position": "Midfielder - Attacking Midfield",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:48:21.678397",
+    "player_index": "10, 0, 1, 22"
+},[{
+    "value": "225 Th. €",
+    "name": "Artak Dashyan",
+    "date_of_birth": "Nov 20, 1989",
+    "nationality": "Armenia",
+    "position": "Midfielder - Attacking Midfield",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:48:29.110984",
+    "player_index": "10, 0, 1, 23"
+},[{
+    "value": "225 Th. €",
+    "name": "Jefferson Reis de Jesus",
+    "date_of_birth": "Nov 8, 1995",
+    "nationality": "Brazil",
+    "position": "Midfielder - Attacking Midfield",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:48:36.502431",
+    "player_index": "10, 0, 1, 24"
+},[{
+    "value": "150 Th. €",
+    "name": "Ghukas Poghosyan",
+    "date_of_birth": "Feb 6, 1994",
+    "nationality": "Armenia",
+    "position": "Forward - Left Winger",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:48:45.883987",
+    "player_index": "10, 0, 1, 25"
+},[{
+    "value": "75 Th. €",
+    "name": "Gustavo Marmentini",
+    "date_of_birth": "Mar 8, 1994",
+    "nationality": "Brazil",
+    "position": "Forward - Right Winger",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:48:57.400554",
+    "player_index": "10, 0, 1, 26"
+},[{
+    "value": "350 Th. €",
+    "name": "César Romero",
+    "date_of_birth": "Aug 2, 1989",
+    "nationality": "Mexico\n  United States",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:49:05.578234",
+    "player_index": "10, 0, 1, 27"
+},[{
+    "value": "225 Th. €",
+    "name": "Mihran Manasyan",
+    "date_of_birth": "Jan 13, 1989",
+    "nationality": "Armenia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:49:14.468608",
+    "player_index": "10, 0, 1, 28"
+},[{
+    "value": "200 Th. €",
+    "name": "Uros Nenadovic",
+    "date_of_birth": "Jan 28, 1994",
+    "nationality": "Serbia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Alashkert",
+    "updated_date": "2018-07-23 23:49:22.859184",
+    "player_index": "10, 0, 1, 29"
+},[{
+    "value": "100 Th. €",
+    "name": "Grigor Meliksetyan",
+    "date_of_birth": "Aug 18, 1986",
+    "nationality": "Armenia",
+    "position": "Goalkeeper",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:50:03.051880",
+    "player_index": "10, 0, 2, 0"
+},[{
+    "value": "75 Th. €",
+    "name": "Gevorg Kasparov",
+    "date_of_birth": "Jul 25, 1980",
+    "nationality": "Armenia",
+    "position": "Goalkeeper",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:50:13.644355",
+    "player_index": "10, 0, 2, 1"
+},[{
+    "value": "25 Th. €",
+    "name": "Gor Martirosyan",
+    "date_of_birth": "Apr 4, 1993",
+    "nationality": "Armenia",
+    "position": "Goalkeeper",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:50:22.169159",
+    "player_index": "10, 0, 2, 2"
+},[{
+    "value": "175 Th. €",
+    "name": "Hayk Ishkhanyan",
+    "date_of_birth": "Jun 24, 1989",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:50:30.648884",
+    "player_index": "10, 0, 2, 3"
+},[{
+    "value": "175 Th. €",
+    "name": "Dmitri Yashin",
+    "date_of_birth": "Apr 25, 1993",
+    "nationality": "Russia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:50:38.963432",
+    "player_index": "10, 0, 2, 4"
+},[{
+    "value": "150 Th. €",
+    "name": "Vukasin Tomic",
+    "date_of_birth": "Apr 8, 1987",
+    "nationality": "Serbia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:50:47.683453",
+    "player_index": "10, 0, 2, 5"
+},[{
+    "value": "150 Th. €",
+    "name": "Damir Memovic",
+    "date_of_birth": "Jan 19, 1989",
+    "nationality": "Serbia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:50:58.603209",
+    "player_index": "10, 0, 2, 6"
+},[{
+    "value": "50 Th. €",
+    "name": "Harun Velic",
+    "date_of_birth": "Jan 3, 1997",
+    "nationality": "Bosnia-Herzegovina\n  Germany",
+    "position": "Defender - Centre-Back",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:51:08.513677",
+    "player_index": "10, 0, 2, 7"
+},[{
+    "value": "150 Th. €",
+    "name": "Vaspurak Minasyan",
+    "date_of_birth": "Jun 29, 1994",
+    "nationality": "Armenia",
+    "position": "Defender - Left-Back",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:51:16.341718",
+    "player_index": "10, 0, 2, 8"
+},[{
+    "value": "200 Th. €",
+    "name": "Aleksandr Sverchinskiy",
+    "date_of_birth": "Sep 16, 1991",
+    "nationality": "Belarus",
+    "position": "Defender - Right-Back",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:51:26.790887",
+    "player_index": "10, 0, 2, 9"
+},[{
+    "value": "125 Th. €",
+    "name": "Ara Khachatryan",
+    "date_of_birth": "Dec 23, 1984",
+    "nationality": "Armenia",
+    "position": "Defender - Right-Back",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:51:34.726141",
+    "player_index": "10, 0, 2, 10"
+},[{
+    "value": "100 Th. €",
+    "name": "David Terteryan",
+    "date_of_birth": "Dec 17, 1997",
+    "nationality": "Armenia",
+    "position": "Defender - Right-Back",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:51:44.472925",
+    "player_index": "10, 0, 2, 11"
+},[{
+    "value": "150 Th. €",
+    "name": "Artur Yuspashyan",
+    "date_of_birth": "Sep 7, 1989",
+    "nationality": "Armenia",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:51:53.768219",
+    "player_index": "10, 0, 2, 12"
+},[{
+    "value": "50 Th. €",
+    "name": "Artur Adamyan",
+    "date_of_birth": "Apr 22, 1992",
+    "nationality": "Armenia\n  Russia",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:52:03.240801",
+    "player_index": "10, 0, 2, 13"
+},[{
+    "value": "200 Th. €",
+    "name": "Wbeymar Angulo",
+    "date_of_birth": "Mar 6, 1992",
+    "nationality": "Colombia",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:52:12.331964",
+    "player_index": "10, 0, 2, 14"
+},[{
+    "value": "125 Th. €",
+    "name": "Narek Aslanyan",
+    "date_of_birth": "Jun 4, 1996",
+    "nationality": "Armenia",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:52:19.701930",
+    "player_index": "10, 0, 2, 15"
+},[{
+    "value": "75 Th. €",
+    "name": "David Wirikom",
+    "date_of_birth": "Aug 28, 1990",
+    "nationality": "Cameroon",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:52:29.024166",
+    "player_index": "10, 0, 2, 16"
+},[{
+    "value": "300 Th. €",
+    "name": "Lubambo Musonda",
+    "date_of_birth": "Mar 1, 1995",
+    "nationality": "Zambia",
+    "position": "Midfielder - Right Midfield",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:52:37.160023",
+    "player_index": "10, 0, 2, 17"
+},[{
+    "value": "75 Th. €",
+    "name": "Davit Minasyan",
+    "date_of_birth": "Mar 9, 1993",
+    "nationality": "Armenia",
+    "position": "Midfielder - Right Midfield",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:52:46.927619",
+    "player_index": "10, 0, 2, 18"
+},[{
+    "value": "50 Th. €",
+    "name": "Ashot Karapetyan",
+    "date_of_birth": "May 12, 1993",
+    "nationality": "Armenia",
+    "position": "Midfielder - Right Midfield",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:52:55.954460",
+    "player_index": "10, 0, 2, 19"
+},[{
+    "value": "25 Th. €",
+    "name": "Vahe Mirakyan",
+    "date_of_birth": "Jan 6, 1993",
+    "nationality": "Armenia",
+    "position": "Midfielder - Right Midfield",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:53:04.908616",
+    "player_index": "10, 0, 2, 20"
+},[{
+    "value": "225 Th. €",
+    "name": "Alex Júnior",
+    "date_of_birth": "Dec 5, 1993",
+    "nationality": "Haiti",
+    "position": "Midfielder - Left Midfield",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:53:14.229047",
+    "player_index": "10, 0, 2, 21"
+},[{
+    "value": "225 Th. €",
+    "name": "Mohammad Markabawi Aiker",
+    "date_of_birth": "Sep 25, 1994",
+    "nationality": "Lebanon",
+    "position": "Midfielder - Left Midfield",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:53:20.493500",
+    "player_index": "10, 0, 2, 22"
+},[{
+    "value": "150 Th. €",
+    "name": "Stevan Zivkovic",
+    "date_of_birth": "Oct 18, 1989",
+    "nationality": "Serbia",
+    "position": "Midfielder - Attacking Midfield",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:53:28.947009",
+    "player_index": "10, 0, 2, 23"
+},[{
+    "value": "125 Th. €",
+    "name": "Gevorg Ohanyan",
+    "date_of_birth": "Jan 29, 1992",
+    "nationality": "Armenia",
+    "position": "Midfielder - Attacking Midfield",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:53:37.337704",
+    "player_index": "10, 0, 2, 24"
+},[{
+    "value": "75 Th. €",
+    "name": "Issiaka Bamba",
+    "date_of_birth": "Mar 31, 1990",
+    "nationality": "Cote d'Ivoire",
+    "position": "Forward - Right Winger",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:53:46.914015",
+    "player_index": "10, 0, 2, 25"
+},[{
+    "value": "75 Th. €",
+    "name": "Martin Grigoryan",
+    "date_of_birth": "Sep 25, 2000",
+    "nationality": "Armenia",
+    "position": "Forward - Right Winger",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:53:54.568411",
+    "player_index": "10, 0, 2, 26"
+},[{
+    "value": "200 Th. €",
+    "name": "Gegham Harutyunyan",
+    "date_of_birth": "Aug 23, 1990",
+    "nationality": "Armenia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:54:02.290671",
+    "player_index": "10, 0, 2, 27"
+},[{
+    "value": "150 Th. €",
+    "name": "Vardan Pogosyan",
+    "date_of_birth": "Mar 8, 1992",
+    "nationality": "Armenia\n  Russia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:54:14.998770",
+    "player_index": "10, 0, 2, 28"
+},[{
+    "value": "100 Th. €",
+    "name": "Gevorg Nranyan",
+    "date_of_birth": "Mar 9, 1986",
+    "nationality": "Armenia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:54:22.036483",
+    "player_index": "10, 0, 2, 29"
+},[{
+    "value": "100 Th. €",
+    "name": "Gevorg Nranyan",
+    "date_of_birth": "Mar 9, 1986",
+    "nationality": "Armenia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-23 23:55:29.467155",
+    "player_index": "10, 0, 2, 29"
+},[{
+    "value": "350 Th. €",
+    "name": "Dmitri Abakumov",
+    "date_of_birth": "Jul 8, 1989",
+    "nationality": "Russia",
+    "position": "Goalkeeper",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-23 23:56:00.803125",
+    "player_index": "10, 0, 3, 0"
+},{
+    "value": "100 Th. €",
+    "name": "Gevorg Nranyan",
+    "date_of_birth": "Mar 9, 1986",
+    "nationality": "Armenia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Gandzasar",
+    "updated_date": "2018-07-24 00:17:58.618195",
+    "player_index": "10, 0, 2, 29"
+},{
+    "value": "350 Th. €",
+    "name": "Dmitri Abakumov",
+    "date_of_birth": "Jul 8, 1989",
+    "nationality": "Russia",
+    "position": "Goalkeeper",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:18:44.667429",
+    "player_index": "10, 0, 3, 0"
+},{
+    "value": "350 Th. €",
+    "name": "Arsen Siukaev",
+    "date_of_birth": "Mar 7, 1996",
+    "nationality": "Russia",
+    "position": "Goalkeeper",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:18:52.217642",
+    "player_index": "10, 0, 3, 1"
+},{
+    "value": "350 Th. €",
+    "name": "Vahe Muradyan",
+    "date_of_birth": "",
+    "nationality": "Armenia",
+    "position": "Goalkeeper",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:18:58.665755",
+    "player_index": "10, 0, 3, 2"
+},{
+    "value": "350 Th. €",
+    "name": "Nikos Melikian",
+    "date_of_birth": "Mar 2, 1999",
+    "nationality": "Armenia",
+    "position": "Goalkeeper",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:19:05.196304",
+    "player_index": "10, 0, 3, 3"
+},{
+    "value": "350 Th. €",
+    "name": "Narek Voskanyan",
+    "date_of_birth": "",
+    "nationality": "Armenia",
+    "position": "Goalkeeper",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:19:12.218473",
+    "player_index": "10, 0, 3, 4"
+},{
+    "value": "350 Th. €",
+    "name": "Harutyun Vardanyan",
+    "date_of_birth": "",
+    "nationality": "Armenia",
+    "position": "Defender",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:19:19.884141",
+    "player_index": "10, 0, 3, 5"
+},{
+    "value": "400 Th. €",
+    "name": "Dmitri Guzj",
+    "date_of_birth": "May 15, 1988",
+    "nationality": "Russia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:19:29.773128",
+    "player_index": "10, 0, 3, 6"
+},{
+    "value": "300 Th. €",
+    "name": "Hrayr Mkoyan",
+    "date_of_birth": "Sep 2, 1986",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:19:39.926134",
+    "player_index": "10, 0, 3, 7"
+},{
+    "value": "200 Th. €",
+    "name": "Artur Danielyan",
+    "date_of_birth": "Feb 9, 1998",
+    "nationality": "Ukraine\n  Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:19:48.188464",
+    "player_index": "10, 0, 3, 8"
+},{
+    "value": "200 Th. €",
+    "name": "Derenik Sargsyan",
+    "date_of_birth": "Oct 13, 1999",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:19:56.689238",
+    "player_index": "10, 0, 3, 9"
+},{
+    "value": "200 Th. €",
+    "name": "Levon Gharibyan",
+    "date_of_birth": "Jan 28, 1999",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:20:05.226570",
+    "player_index": "10, 0, 3, 10"
+},{
+    "value": "200 Th. €",
+    "name": "Albert Khachumyan",
+    "date_of_birth": "Jun 23, 1999",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:20:12.783346",
+    "player_index": "10, 0, 3, 11"
+},{
+    "value": "200 Th. €",
+    "name": "Karen Hovhannisyan",
+    "date_of_birth": "Jan 18, 2000",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:20:22.158104",
+    "player_index": "10, 0, 3, 12"
+},{
+    "value": "200 Th. €",
+    "name": "Arman Hovhannisyan",
+    "date_of_birth": "Jul 7, 1993",
+    "nationality": "Armenia",
+    "position": "Defender - Left-Back",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:20:30.749905",
+    "player_index": "10, 0, 3, 13"
+},{
+    "value": "175 Th. €",
+    "name": "Aghvan Davoyan",
+    "date_of_birth": "Mar 21, 1990",
+    "nationality": "Armenia",
+    "position": "Defender - Left-Back",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:20:39.663439",
+    "player_index": "10, 0, 3, 14"
+},{
+    "value": "175 Th. €",
+    "name": "Gevorg Markosyan",
+    "date_of_birth": "",
+    "nationality": "Armenia",
+    "position": "Defender - Left-Back",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:20:48.470093",
+    "player_index": "10, 0, 3, 15"
+},{
+    "value": "175 Th. €",
+    "name": "Arman Asilyan",
+    "date_of_birth": "Apr 15, 1999",
+    "nationality": "Armenia",
+    "position": "Defender - Left-Back",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:20:57.753937",
+    "player_index": "10, 0, 3, 16"
+},{
+    "value": "175 Th. €",
+    "name": "Robert Darbinyan",
+    "date_of_birth": "Oct 4, 1995",
+    "nationality": "Armenia\n  Russia",
+    "position": "Defender - Right-Back",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:21:06.754865",
+    "player_index": "10, 0, 3, 17"
+},{
+    "value": "175 Th. €",
+    "name": "Arsen Sargsyan",
+    "date_of_birth": "Jul 19, 2000",
+    "nationality": "Armenia",
+    "position": "Defender - Right-Back",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:21:16.929728",
+    "player_index": "10, 0, 3, 18"
+},{
+    "value": "175 Th. €",
+    "name": "Levon Gevorgyan",
+    "date_of_birth": "Oct 24, 1998",
+    "nationality": "Armenia",
+    "position": "Defender - Right-Back",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:21:25.926678",
+    "player_index": "10, 0, 3, 19"
+},{
+    "value": "175 Th. €",
+    "name": "Samvel Harutyunyan",
+    "date_of_birth": "",
+    "nationality": "Armenia",
+    "position": "Midfielder",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:21:34.263198",
+    "player_index": "10, 0, 3, 20"
+},{
+    "value": "175 Th. €",
+    "name": "Norayr Grigoryan",
+    "date_of_birth": "Oct 20, 1999",
+    "nationality": "Armenia",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:21:41.994037",
+    "player_index": "10, 0, 3, 21"
+},{
+    "value": "175 Th. €",
+    "name": "Mikhail Muradyan",
+    "date_of_birth": "Nov 4, 1999",
+    "nationality": "Armenia",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:21:55.630304",
+    "player_index": "10, 0, 3, 22"
+},{
+    "value": "400 Th. €",
+    "name": "Gor Malakyan",
+    "date_of_birth": "Jun 12, 1994",
+    "nationality": "Armenia",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:22:02.072911",
+    "player_index": "10, 0, 3, 23"
+},{
+    "value": "300 Th. €",
+    "name": "Armen Ambartsumyan",
+    "date_of_birth": "Apr 11, 1994",
+    "nationality": "Russia\n  Armenia",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:22:09.417310",
+    "player_index": "10, 0, 3, 24"
+},{
+    "value": "150 Th. €",
+    "name": "Aleksey Pustozerov",
+    "date_of_birth": "Sep 21, 1988",
+    "nationality": "Russia\n  Ukraine",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:22:17.395262",
+    "player_index": "10, 0, 3, 25"
+},{
+    "value": "25 Th. €",
+    "name": "Samvel Spertsyan",
+    "date_of_birth": "May 24, 1998",
+    "nationality": "Armenia\n  Russia",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:22:25.169315",
+    "player_index": "10, 0, 3, 26"
+},{
+    "value": "25 Th. €",
+    "name": "Patvakan Avetisyan",
+    "date_of_birth": "Aug 24, 2001",
+    "nationality": "Armenia",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:22:32.527198",
+    "player_index": "10, 0, 3, 27"
+},{
+    "value": "25 Th. €",
+    "name": "Erik Azizyan",
+    "date_of_birth": "Mar 4, 2000",
+    "nationality": "Armenia",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:22:40.050054",
+    "player_index": "10, 0, 3, 28"
+},{
+    "value": "25 Th. €",
+    "name": "Davit Nalbandyan",
+    "date_of_birth": "Aug 9, 1999",
+    "nationality": "Armenia",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:22:46.187796",
+    "player_index": "10, 0, 3, 29"
+},{
+    "value": "25 Th. €",
+    "name": "Artyom Petrosyan",
+    "date_of_birth": "Mar 23, 2000",
+    "nationality": "Armenia",
+    "position": "Midfielder - Left Midfield",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:22:53.569907",
+    "player_index": "10, 0, 3, 30"
+},{
+    "value": "25 Th. €",
+    "name": "Vigen Karapetyan",
+    "date_of_birth": "Apr 26, 1999",
+    "nationality": "Armenia",
+    "position": "Midfielder - Left Midfield",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:23:01.413027",
+    "player_index": "10, 0, 3, 31"
+},{
+    "value": "300 Th. €",
+    "name": "Jerry Ortíz",
+    "date_of_birth": "Nov 7, 1992",
+    "nationality": "Colombia",
+    "position": "Midfielder - Attacking Midfield",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:23:08.562609",
+    "player_index": "10, 0, 3, 32"
+},{
+    "value": "150 Th. €",
+    "name": "Vladislav Oslonovskiy",
+    "date_of_birth": "Jan 15, 1995",
+    "nationality": "Russia",
+    "position": "Midfielder - Attacking Midfield",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:23:15.154833",
+    "player_index": "10, 0, 3, 33"
+},{
+    "value": "150 Th. €",
+    "name": "Mihran Petrosyan",
+    "date_of_birth": "Sep 19, 1999",
+    "nationality": "Armenia",
+    "position": "Midfielder - Attacking Midfield",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:23:22.577036",
+    "player_index": "10, 0, 3, 34"
+},{
+    "value": "150 Th. €",
+    "name": "Gevorg Mkhitaryan",
+    "date_of_birth": "",
+    "nationality": "Armenia",
+    "position": "Midfielder - Attacking Midfield",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:23:28.734699",
+    "player_index": "10, 0, 3, 35"
+},{
+    "value": "150 Th. €",
+    "name": "Arman Badalyan",
+    "date_of_birth": "",
+    "nationality": "Armenia",
+    "position": "Forward",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:23:35.152090",
+    "player_index": "10, 0, 3, 36"
+},{
+    "value": "150 Th. €",
+    "name": "Danila Yashchuk",
+    "date_of_birth": "Mar 13, 1995",
+    "nationality": "Russia",
+    "position": "Forward - Left Winger",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:23:43.720236",
+    "player_index": "10, 0, 3, 37"
+},{
+    "value": "25 Th. €",
+    "name": "Zhirayr Shagoyan",
+    "date_of_birth": "Apr 10, 2001",
+    "nationality": "Armenia",
+    "position": "Forward - Left Winger",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:23:50.783108",
+    "player_index": "10, 0, 3, 38"
+},{
+    "value": "125 Th. €",
+    "name": "Vardan Bakalyan",
+    "date_of_birth": "Apr 4, 1995",
+    "nationality": "Armenia",
+    "position": "Forward - Second Striker",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:23:59.608938",
+    "player_index": "10, 0, 3, 39"
+},{
+    "value": "100 Th. €",
+    "name": "Anton Kobyalko",
+    "date_of_birth": "May 14, 1986",
+    "nationality": "Russia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:24:07.273287",
+    "player_index": "10, 0, 3, 40"
+},{
+    "value": "25 Th. €",
+    "name": "Armen Hovhannisyan",
+    "date_of_birth": "Mar 7, 2000",
+    "nationality": "Armenia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:24:14.676670",
+    "player_index": "10, 0, 3, 41"
+},{
+    "value": "25 Th. €",
+    "name": "Kayron",
+    "date_of_birth": "Apr 3, 1995",
+    "nationality": "Brazil",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:24:24.558315",
+    "player_index": "10, 0, 3, 42"
+},{
+    "value": "25 Th. €",
+    "name": "Rafik Melikyan",
+    "date_of_birth": "Mar 31, 1999",
+    "nationality": "Armenia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:24:31.744229",
+    "player_index": "10, 0, 3, 43"
+},{
+    "value": "25 Th. €",
+    "name": "Aram Kolozyan",
+    "date_of_birth": "May 15, 2001",
+    "nationality": "Armenia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Ararat-Armenia",
+    "updated_date": "2018-07-24 00:24:38.665173",
+    "player_index": "10, 0, 3, 44"
+},{
+    "value": "200 Th. €",
+    "name": "Anatoly Ayvazov",
+    "date_of_birth": "Jun 8, 1996",
+    "nationality": "Armenia\n  Russia",
+    "position": "Goalkeeper",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:25:12.285786",
+    "player_index": "10, 0, 4, 0"
+},{
+    "value": "150 Th. €",
+    "name": "Aram Airapetyan",
+    "date_of_birth": "Nov 22, 1986",
+    "nationality": "Armenia\n  Russia",
+    "position": "Goalkeeper",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:25:19.268756",
+    "player_index": "10, 0, 4, 1"
+},{
+    "value": "100 Th. €",
+    "name": "Stepan Ghazaryan",
+    "date_of_birth": "Jan 11, 1985",
+    "nationality": "Armenia",
+    "position": "Goalkeeper",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:25:25.798559",
+    "player_index": "10, 0, 4, 2"
+},{
+    "value": "25 Th. €",
+    "name": "Grigori Matevosyan",
+    "date_of_birth": "Jun 9, 1999",
+    "nationality": "Armenia\n  Russia",
+    "position": "Goalkeeper",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:25:32.255028",
+    "player_index": "10, 0, 4, 3"
+},{
+    "value": "250 Th. €",
+    "name": "Borislav Jovanovic",
+    "date_of_birth": "Aug 16, 1986",
+    "nationality": "Serbia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:25:40.952250",
+    "player_index": "10, 0, 4, 4"
+},{
+    "value": "150 Th. €",
+    "name": "Edward Kpodo",
+    "date_of_birth": "Jan 14, 1990",
+    "nationality": "Ghana",
+    "position": "Defender - Centre-Back",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:25:49.047877",
+    "player_index": "10, 0, 4, 5"
+},{
+    "value": "125 Th. €",
+    "name": "Dmytro Khovbosha",
+    "date_of_birth": "Feb 5, 1989",
+    "nationality": "Ukraine",
+    "position": "Defender - Centre-Back",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:25:59.272693",
+    "player_index": "10, 0, 4, 6"
+},{
+    "value": "50 Th. €",
+    "name": "Gevorg Khuloyan",
+    "date_of_birth": "Aug 18, 1996",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:26:06.487277",
+    "player_index": "10, 0, 4, 7"
+},{
+    "value": "25 Th. €",
+    "name": "Hayk Sargsyan",
+    "date_of_birth": "Mar 12, 1998",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:26:14.335847",
+    "player_index": "10, 0, 4, 8"
+},{
+    "value": "25 Th. €",
+    "name": "Gagik Maghakyan",
+    "date_of_birth": "Feb 7, 1996",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:26:21.420636",
+    "player_index": "10, 0, 4, 9"
+},{
+    "value": "125 Th. €",
+    "name": "Narek Petrosyan",
+    "date_of_birth": "Jan 25, 1996",
+    "nationality": "Armenia",
+    "position": "Defender - Left-Back",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:26:30.054391",
+    "player_index": "10, 0, 4, 10"
+},{
+    "value": "100 Th. €",
+    "name": "Artur Avagyan",
+    "date_of_birth": "Jul 4, 1987",
+    "nationality": "Armenia",
+    "position": "Defender - Left-Back",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:26:38.389507",
+    "player_index": "10, 0, 4, 11"
+},{
+    "value": "175 Th. €",
+    "name": "Vahagn Ayvazyan",
+    "date_of_birth": "Apr 16, 1992",
+    "nationality": "Armenia",
+    "position": "Defender - Right-Back",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:26:47.342044",
+    "player_index": "10, 0, 4, 12"
+},{
+    "value": "125 Th. €",
+    "name": "Aram Bareghamyan",
+    "date_of_birth": "Jan 6, 1988",
+    "nationality": "Armenia",
+    "position": "Defender - Right-Back",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:26:54.687808",
+    "player_index": "10, 0, 4, 13"
+},{
+    "value": "125 Th. €",
+    "name": "Hakob Hakobyan",
+    "date_of_birth": "Mar 29, 1997",
+    "nationality": "Armenia",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:27:10.673610",
+    "player_index": "10, 0, 4, 14"
+},{
+    "value": "50 Th. €",
+    "name": "Albert Arzumanyan",
+    "date_of_birth": "May 27, 1998",
+    "nationality": "Russia\n  Armenia",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:27:19.329621",
+    "player_index": "10, 0, 4, 15"
+},{
+    "value": "200 Th. €",
+    "name": "Solomon Udo",
+    "date_of_birth": "Jul 15, 1995",
+    "nationality": "Nigeria",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:27:29.046703",
+    "player_index": "10, 0, 4, 16"
+},{
+    "value": "200 Th. €",
+    "name": "Kwasi Sibo",
+    "date_of_birth": "Jun 24, 1998",
+    "nationality": "Ghana",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:27:36.541418",
+    "player_index": "10, 0, 4, 17"
+},{
+    "value": "75 Th. €",
+    "name": "Alexander Hovhannisyan",
+    "date_of_birth": "Jul 20, 1996",
+    "nationality": "Armenia\n  Ukraine",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:27:44.655831",
+    "player_index": "10, 0, 4, 18"
+},{
+    "value": "75 Th. €",
+    "name": "Aram Loretsyan",
+    "date_of_birth": "Mar 7, 1993",
+    "nationality": "Armenia",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:27:52.799857",
+    "player_index": "10, 0, 4, 19"
+},{
+    "value": "225 Th. €",
+    "name": "Ognjen Krasic",
+    "date_of_birth": "Apr 9, 1988",
+    "nationality": "Serbia",
+    "position": "Midfielder - Right Midfield",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:28:01.295504",
+    "player_index": "10, 0, 4, 20"
+},{
+    "value": "25 Th. €",
+    "name": "Karen Melkonyan",
+    "date_of_birth": "Mar 25, 1999",
+    "nationality": "Armenia",
+    "position": "Midfielder - Left Midfield",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:28:09.602108",
+    "player_index": "10, 0, 4, 21"
+},{
+    "value": "25 Th. €",
+    "name": "Narek Grigoryan",
+    "date_of_birth": "Jun 17, 2001",
+    "nationality": "Armenia",
+    "position": "Midfielder - Left Midfield",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:28:19.687285",
+    "player_index": "10, 0, 4, 22"
+},{
+    "value": "200 Th. €",
+    "name": "Igor Stanojevic",
+    "date_of_birth": "Oct 24, 1991",
+    "nationality": "Serbia",
+    "position": "Forward - Left Winger",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:28:28.733660",
+    "player_index": "10, 0, 4, 23"
+},{
+    "value": "175 Th. €",
+    "name": "Walmerson",
+    "date_of_birth": "Jan 13, 1994",
+    "nationality": "Brazil",
+    "position": "Forward - Left Winger",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:28:38.436025",
+    "player_index": "10, 0, 4, 24"
+},{
+    "value": "175 Th. €",
+    "name": "Lester Peltier",
+    "date_of_birth": "Sep 13, 1988",
+    "nationality": "Trinidad and Tobago",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:28:47.638189",
+    "player_index": "10, 0, 4, 25"
+},{
+    "value": "75 Th. €",
+    "name": "Erik Petrosyan",
+    "date_of_birth": "Feb 19, 1998",
+    "nationality": "Armenia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:28:55.021761",
+    "player_index": "10, 0, 4, 26"
+},{
+    "value": "50 Th. €",
+    "name": "Fagner Santos da Paixão",
+    "date_of_birth": "Jun 22, 1998",
+    "nationality": "Brazil",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:29:02.919016",
+    "player_index": "10, 0, 4, 27"
+},{
+    "value": "50 Th. €",
+    "name": "Mikhail Solovjev",
+    "date_of_birth": "Apr 7, 1997",
+    "nationality": "Russia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Banants",
+    "updated_date": "2018-07-24 00:29:12.426349",
+    "player_index": "10, 0, 4, 28"
+},{
+    "value": "25 Th. €",
+    "name": "Samur Agamagomedov",
+    "date_of_birth": "",
+    "nationality": "Russia",
+    "position": "Goalkeeper",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:29:41.654533",
+    "player_index": "10, 0, 5, 0"
+},{
+    "value": "25 Th. €",
+    "name": "Armen Hovhannisyan",
+    "date_of_birth": "Jul 7, 1992",
+    "nationality": "Armenia",
+    "position": "Goalkeeper",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:29:49.407286",
+    "player_index": "10, 0, 5, 1"
+},{
+    "value": "25 Th. €",
+    "name": "Erik Meliksetyan",
+    "date_of_birth": "Aug 26, 2000",
+    "nationality": "Armenia",
+    "position": "Goalkeeper",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:29:55.937704",
+    "player_index": "10, 0, 5, 2"
+},{
+    "value": "300 Th. €",
+    "name": "Robert Arzumanyan",
+    "date_of_birth": "Jul 24, 1985",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:30:03.401671",
+    "player_index": "10, 0, 5, 3"
+},{
+    "value": "100 Th. €",
+    "name": "Hamlet Asoyan",
+    "date_of_birth": "Jan 13, 1995",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:30:12.736908",
+    "player_index": "10, 0, 5, 4"
+},{
+    "value": "50 Th. €",
+    "name": "Gor Mkrtumyan",
+    "date_of_birth": "May 24, 1992",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:30:20.559778",
+    "player_index": "10, 0, 5, 5"
+},{
+    "value": "25 Th. €",
+    "name": "Hovhannes Nazaryan",
+    "date_of_birth": "Mar 11, 1998",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:30:28.904494",
+    "player_index": "10, 0, 5, 6"
+},{
+    "value": "25 Th. €",
+    "name": "Vadim Hayiryan",
+    "date_of_birth": "Apr 6, 1997",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:30:36.380880",
+    "player_index": "10, 0, 5, 7"
+},{
+    "value": "75 Th. €",
+    "name": "Zhirayr Margaryan",
+    "date_of_birth": "Sep 13, 1997",
+    "nationality": "Armenia",
+    "position": "Defender - Left-Back",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:30:44.734915",
+    "player_index": "10, 0, 5, 8"
+},{
+    "value": "25 Th. €",
+    "name": "Vazgen Yeranosyan",
+    "date_of_birth": "Nov 9, 1999",
+    "nationality": "Armenia",
+    "position": "Defender - Left-Back",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:30:53.372062",
+    "player_index": "10, 0, 5, 9"
+},{
+    "value": "25 Th. €",
+    "name": "Erik Nazaryan",
+    "date_of_birth": "Mar 14, 1996",
+    "nationality": "Armenia",
+    "position": "Defender - Left-Back",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:31:04.036598",
+    "player_index": "10, 0, 5, 10"
+},{
+    "value": "125 Th. €",
+    "name": "Vahagn Minasyan",
+    "date_of_birth": "Apr 25, 1985",
+    "nationality": "Armenia",
+    "position": "Defender - Right-Back",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:31:12.167471",
+    "player_index": "10, 0, 5, 11"
+},{
+    "value": "75 Th. €",
+    "name": "Hakob Hambardzumyan",
+    "date_of_birth": "May 26, 1997",
+    "nationality": "Armenia",
+    "position": "Defender - Right-Back",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:31:19.974054",
+    "player_index": "10, 0, 5, 12"
+},{
+    "value": "150 Th. €",
+    "name": "Maksim Ermakov",
+    "date_of_birth": "Apr 21, 1995",
+    "nationality": "Russia",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:31:29.240884",
+    "player_index": "10, 0, 5, 13"
+},{
+    "value": "25 Th. €",
+    "name": "Artur Stepanyan",
+    "date_of_birth": "Nov 17, 1999",
+    "nationality": "Armenia",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:31:36.346591",
+    "player_index": "10, 0, 5, 14"
+},{
+    "value": "100 Th. €",
+    "name": "Yuri Gareginyan",
+    "date_of_birth": "Feb 3, 1994",
+    "nationality": "Armenia",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:31:43.051502",
+    "player_index": "10, 0, 5, 15"
+},{
+    "value": "100 Th. €",
+    "name": "Karen Harutyunyan",
+    "date_of_birth": "Jul 6, 1995",
+    "nationality": "Armenia",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:31:51.580194",
+    "player_index": "10, 0, 5, 16"
+},{
+    "value": "50 Th. €",
+    "name": "Narek Gyozalyan",
+    "date_of_birth": "Jul 10, 1992",
+    "nationality": "Armenia",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:32:01.311954",
+    "player_index": "10, 0, 5, 17"
+},{
+    "value": "25 Th. €",
+    "name": "Artur Grigoryan",
+    "date_of_birth": "Jul 10, 1993",
+    "nationality": "Armenia",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:32:08.674545",
+    "player_index": "10, 0, 5, 18"
+},{
+    "value": "75 Th. €",
+    "name": "Marat Buraev",
+    "date_of_birth": "Oct 22, 1995",
+    "nationality": "Russia",
+    "position": "Midfielder - Right Midfield",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:32:17.146740",
+    "player_index": "10, 0, 5, 19"
+},{
+    "value": "75 Th. €",
+    "name": "Valter Poghosyan",
+    "date_of_birth": "May 16, 1992",
+    "nationality": "Armenia",
+    "position": "Midfielder - Right Midfield",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:32:25.788297",
+    "player_index": "10, 0, 5, 20"
+},{
+    "value": "75 Th. €",
+    "name": "Oleksandr Tupchiyenko",
+    "date_of_birth": "Dec 10, 1995",
+    "nationality": "Ukraine",
+    "position": "Midfielder - Right Midfield",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:32:33.505563",
+    "player_index": "10, 0, 5, 21"
+},{
+    "value": "50 Th. €",
+    "name": "Edvard Avagyan",
+    "date_of_birth": "Mar 21, 1996",
+    "nationality": "Armenia",
+    "position": "Midfielder - Left Midfield",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:32:41.384642",
+    "player_index": "10, 0, 5, 22"
+},{
+    "value": "25 Th. €",
+    "name": "Muslim Bammatgereev",
+    "date_of_birth": "Jan 15, 1996",
+    "nationality": "Russia",
+    "position": "Midfielder - Attacking Midfield",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:32:48.805779",
+    "player_index": "10, 0, 5, 23"
+},{
+    "value": "25 Th. €",
+    "name": "Armo Adamyan",
+    "date_of_birth": "Apr 30, 1996",
+    "nationality": "Armenia",
+    "position": "Midfielder - Attacking Midfield",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:32:56.933005",
+    "player_index": "10, 0, 5, 24"
+},{
+    "value": "50 Th. €",
+    "name": "Emil Yeghiazaryan",
+    "date_of_birth": "Nov 3, 1997",
+    "nationality": "Armenia",
+    "position": "Forward - Right Winger",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:33:14.852243",
+    "player_index": "10, 0, 5, 25"
+},{
+    "value": "125 Th. €",
+    "name": "Norayr Gyozalyan",
+    "date_of_birth": "Mar 15, 1990",
+    "nationality": "Armenia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:33:21.344723",
+    "player_index": "10, 0, 5, 26"
+},{
+    "value": "100 Th. €",
+    "name": "Sarkis Baloyan",
+    "date_of_birth": "Aug 24, 1992",
+    "nationality": "Armenia\n  Russia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:33:29.891671",
+    "player_index": "10, 0, 5, 27"
+},{
+    "value": "100 Th. €",
+    "name": "Ramazan Isaev",
+    "date_of_birth": "Jan 17, 1998",
+    "nationality": "Russia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:33:38.633956",
+    "player_index": "10, 0, 5, 28"
+},{
+    "value": "50 Th. €",
+    "name": "Grigor Aghekyan",
+    "date_of_birth": "Apr 7, 1996",
+    "nationality": "Armenia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:33:46.713883",
+    "player_index": "10, 0, 5, 29"
+},{
+    "value": "25 Th. €",
+    "name": "Narek Ghasumyan",
+    "date_of_birth": "Dec 13, 1999",
+    "nationality": "Armenia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:33:55.265301",
+    "player_index": "10, 0, 5, 30"
+},{
+    "value": "25 Th. €",
+    "name": "David Asatryan",
+    "date_of_birth": "Jan 10, 1995",
+    "nationality": "Armenia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Artsakh Erewan",
+    "updated_date": "2018-07-24 00:34:03.069539",
+    "player_index": "10, 0, 5, 31"
+},{
+    "value": "50 Th. €",
+    "name": "Poghos Ayvazyan",
+    "date_of_birth": "Jun 9, 1995",
+    "nationality": "Armenia",
+    "position": "Goalkeeper",
+    "current_club": "Ararat Yerevan",
+    "updated_date": "2018-07-24 00:34:32.192507",
+    "player_index": "10, 0, 6, 0"
+},{
+    "value": "50 Th. €",
+    "name": "Arman Meliksetyan",
+    "date_of_birth": "Jul 21, 1995",
+    "nationality": "Armenia",
+    "position": "Goalkeeper",
+    "current_club": "Ararat Yerevan",
+    "updated_date": "2018-07-24 00:34:39.657909",
+    "player_index": "10, 0, 6, 1"
+},{
+    "value": "25 Th. €",
+    "name": "Edvard Hovhannisyan",
+    "date_of_birth": "Feb 28, 1990",
+    "nationality": "Armenia",
+    "position": "Goalkeeper",
+    "current_club": "Ararat Yerevan",
+    "updated_date": "2018-07-24 00:34:47.786252",
+    "player_index": "10, 0, 6, 2"
+},{
+    "value": "100 Th. €",
+    "name": "Vardan Arzoyan",
+    "date_of_birth": "Apr 30, 1995",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Ararat Yerevan",
+    "updated_date": "2018-07-24 00:34:55.886116",
+    "player_index": "10, 0, 6, 3"
+},{
+    "value": "100 Th. €",
+    "name": "Rafael Safaryan",
+    "date_of_birth": "Jan 30, 1986",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Ararat Yerevan",
+    "updated_date": "2018-07-24 00:35:03.647992",
+    "player_index": "10, 0, 6, 4"
+},{
+    "value": "25 Th. €",
+    "name": "Vahe Chopuryan",
+    "date_of_birth": "Dec 1, 1997",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Ararat Yerevan",
+    "updated_date": "2018-07-24 00:35:10.289306",
+    "player_index": "10, 0, 6, 5"
+},{
+    "value": "25 Th. €",
+    "name": "Volodya Samsonyan",
+    "date_of_birth": "Feb 24, 2001",
+    "nationality": "Armenia",
+    "position": "Defender - Left-Back",
+    "current_club": "Ararat Yerevan",
+    "updated_date": "2018-07-24 00:35:17.432402",
+    "player_index": "10, 0, 6, 6"
+},{
+    "value": "75 Th. €",
+    "name": "Sergey Mkrtchyan",
+    "date_of_birth": "May 20, 1995",
+    "nationality": "Armenia",
+    "position": "Defender - Right-Back",
+    "current_club": "Ararat Yerevan",
+    "updated_date": "2018-07-24 00:35:25.574487",
+    "player_index": "10, 0, 6, 7"
+},{
+    "value": "100 Th. €",
+    "name": "Argishti Petrosyan",
+    "date_of_birth": "Oct 16, 1992",
+    "nationality": "Armenia",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Ararat Yerevan",
+    "updated_date": "2018-07-24 00:35:32.689893",
+    "player_index": "10, 0, 6, 8"
+},{
+    "value": "50 Th. €",
+    "name": "Aram Kocharyan",
+    "date_of_birth": "Mar 5, 1996",
+    "nationality": "Armenia",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Ararat Yerevan",
+    "updated_date": "2018-07-24 00:35:43.302536",
+    "player_index": "10, 0, 6, 9"
+},{
+    "value": "50 Th. €",
+    "name": "Armen Derdzyan",
+    "date_of_birth": "Nov 17, 1993",
+    "nationality": "Armenia",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Ararat Yerevan",
+    "updated_date": "2018-07-24 00:35:51.869968",
+    "player_index": "10, 0, 6, 10"
+},{
+    "value": "50 Th. €",
+    "name": "Ruslan Avagyan",
+    "date_of_birth": "Jun 24, 1995",
+    "nationality": "Armenia",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Ararat Yerevan",
+    "updated_date": "2018-07-24 00:35:59.710114",
+    "player_index": "10, 0, 6, 11"
+},{
+    "value": "50 Th. €",
+    "name": "Garegin Kirakosyan",
+    "date_of_birth": "Nov 26, 1995",
+    "nationality": "Armenia",
+    "position": "Midfielder - Left Midfield",
+    "current_club": "Ararat Yerevan",
+    "updated_date": "2018-07-24 00:36:06.513657",
+    "player_index": "10, 0, 6, 12"
+},{
+    "value": "50 Th. €",
+    "name": "Anthony Trajkoski",
+    "date_of_birth": "Apr 28, 1998",
+    "nationality": "Australia\n  Macedonia",
+    "position": "Midfielder - Attacking Midfield",
+    "current_club": "Ararat Yerevan",
+    "updated_date": "2018-07-24 00:36:15.052587",
+    "player_index": "10, 0, 6, 13"
+},{
+    "value": "50 Th. €",
+    "name": "Gegham Tumbaryan",
+    "date_of_birth": "May 13, 1996",
+    "nationality": "Armenia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Ararat Yerevan",
+    "updated_date": "2018-07-24 00:36:39.199816",
+    "player_index": "10, 0, 6, 15"
+},{
+    "value": "50 Th. €",
+    "name": "Orbeli Hambardzumyan",
+    "date_of_birth": "Mar 26, 1996",
+    "nationality": "Armenia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Ararat Yerevan",
+    "updated_date": "2018-07-24 00:36:48.689016",
+    "player_index": "10, 0, 6, 16"
+},{
+    "value": "50 Th. €",
+    "name": "Sargis Metoyan",
+    "date_of_birth": "Aug 24, 1997",
+    "nationality": "Armenia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Ararat Yerevan",
+    "updated_date": "2018-07-24 00:36:58.210146",
+    "player_index": "10, 0, 6, 17"
+},{
+    "value": "100 Th. €",
+    "name": "Dimitri Stajila",
+    "date_of_birth": "Aug 2, 1991",
+    "nationality": "Moldova\n  Russia",
+    "position": "Goalkeeper",
+    "current_club": "Lori Vanadzor",
+    "updated_date": "2018-07-24 00:37:37.081327",
+    "player_index": "10, 0, 7, 0"
+},{
+    "value": "75 Th. €",
+    "name": "Gor Elyazyan",
+    "date_of_birth": "Jun 1, 1991",
+    "nationality": "Armenia",
+    "position": "Goalkeeper",
+    "current_club": "Lori Vanadzor",
+    "updated_date": "2018-07-24 00:37:46.795051",
+    "player_index": "10, 0, 7, 1"
+},{
+    "value": "50 Th. €",
+    "name": "Samvel Hunanyan",
+    "date_of_birth": "Jul 14, 1995",
+    "nationality": "Armenia",
+    "position": "Goalkeeper",
+    "current_club": "Lori Vanadzor",
+    "updated_date": "2018-07-24 00:37:56.162156",
+    "player_index": "10, 0, 7, 2"
+},{
+    "value": "125 Th. €",
+    "name": "Artyom Khachaturov",
+    "date_of_birth": "Jun 18, 1992",
+    "nationality": "Armenia\n  Moldova",
+    "position": "Defender - Centre-Back",
+    "current_club": "Lori Vanadzor",
+    "updated_date": "2018-07-24 00:38:04.844559",
+    "player_index": "10, 0, 7, 3"
+},{
+    "value": "50 Th. €",
+    "name": "Gurgen Matevosyan",
+    "date_of_birth": "Mar 18, 1998",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Lori Vanadzor",
+    "updated_date": "2018-07-24 00:38:12.872734",
+    "player_index": "10, 0, 7, 4"
+},{
+    "value": "25 Th. €",
+    "name": "Murad Asatryan",
+    "date_of_birth": "Feb 8, 1996",
+    "nationality": "Armenia",
+    "position": "Defender - Centre-Back",
+    "current_club": "Lori Vanadzor",
+    "updated_date": "2018-07-24 00:38:21.550270",
+    "player_index": "10, 0, 7, 5"
+},{
+    "value": "75 Th. €",
+    "name": "Vardan Movsisyan",
+    "date_of_birth": "Aug 18, 1991",
+    "nationality": "Armenia",
+    "position": "Defender - Right-Back",
+    "current_club": "Lori Vanadzor",
+    "updated_date": "2018-07-24 00:38:32.368338",
+    "player_index": "10, 0, 7, 6"
+},{
+    "value": "75 Th. €",
+    "name": "Annan Mensah",
+    "date_of_birth": "Jul 6, 1996",
+    "nationality": "Ghana",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Lori Vanadzor",
+    "updated_date": "2018-07-24 00:38:41.230541",
+    "player_index": "10, 0, 7, 7"
+},{
+    "value": "25 Th. €",
+    "name": "Uguchukwu Iwu",
+    "date_of_birth": "Nov 28, 1999",
+    "nationality": "Nigeria",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Lori Vanadzor",
+    "updated_date": "2018-07-24 00:38:49.873587",
+    "player_index": "10, 0, 7, 8"
+},{
+    "value": "50 Th. €",
+    "name": "David Aslanyan",
+    "date_of_birth": "Aug 7, 1994",
+    "nationality": "Armenia",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Lori Vanadzor",
+    "updated_date": "2018-07-24 00:38:58.976831",
+    "player_index": "10, 0, 7, 9"
+},{
+    "value": "25 Th. €",
+    "name": "Zori Sargsyan",
+    "date_of_birth": "Oct 2, 1999",
+    "nationality": "Armenia",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Lori Vanadzor",
+    "updated_date": "2018-07-24 00:39:05.859682",
+    "player_index": "10, 0, 7, 10"
+},{
+    "value": "25 Th. €",
+    "name": "Stepan Harutyunyan",
+    "date_of_birth": "Jul 11, 1997",
+    "nationality": "Armenia",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Lori Vanadzor",
+    "updated_date": "2018-07-24 00:39:12.820120",
+    "player_index": "10, 0, 7, 11"
+},{
+    "value": "25 Th. €",
+    "name": "Ibrahim Fuseni",
+    "date_of_birth": "Jan 1, 2000",
+    "nationality": "Ghana",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Lori Vanadzor",
+    "updated_date": "2018-07-24 00:39:21.242168",
+    "player_index": "10, 0, 7, 12"
+},{
+    "value": "25 Th. €",
+    "name": "Aram Adamyan",
+    "date_of_birth": "Sep 11, 1997",
+    "nationality": "Bulgaria\n  Armenia",
+    "position": "Midfielder - Attacking Midfield",
+    "current_club": "Lori Vanadzor",
+    "updated_date": "2018-07-24 00:39:31.948502",
+    "player_index": "10, 0, 7, 13"
+},{
+    "value": "25 Th. €",
+    "name": "Isah Aliyu",
+    "date_of_birth": "Aug 8, 1999",
+    "nationality": "Nigeria",
+    "position": "Midfielder - Attacking Midfield",
+    "current_club": "Lori Vanadzor",
+    "updated_date": "2018-07-24 00:39:40.474650",
+    "player_index": "10, 0, 7, 14"
+},{
+    "value": "75 Th. €",
+    "name": "Vigen Avetisyan",
+    "date_of_birth": "Jan 12, 1993",
+    "nationality": "Armenia",
+    "position": "Forward - Right Winger",
+    "current_club": "Lori Vanadzor",
+    "updated_date": "2018-07-24 00:39:51.971487",
+    "player_index": "10, 0, 7, 15"
+},{
+    "value": "25 Th. €",
+    "name": "Areg Azatyan",
+    "date_of_birth": "Jun 29, 1990",
+    "nationality": "Armenia",
+    "position": "Forward - Second Striker",
+    "current_club": "Lori Vanadzor",
+    "updated_date": "2018-07-24 00:40:01.471240",
+    "player_index": "10, 0, 7, 16"
+},{
+    "value": "75 Th. €",
+    "name": "Jonel Désiré",
+    "date_of_birth": "Feb 12, 1997",
+    "nationality": "Haiti",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Lori Vanadzor",
+    "updated_date": "2018-07-24 00:40:09.739658",
+    "player_index": "10, 0, 7, 17"
+},{
+    "value": "25 Th. €",
+    "name": "Arman Mkrtchyan",
+    "date_of_birth": "Jul 9, 1999",
+    "nationality": "Armenia",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Lori Vanadzor",
+    "updated_date": "2018-07-24 00:40:19.112733",
+    "player_index": "10, 0, 7, 18"
+},{}]

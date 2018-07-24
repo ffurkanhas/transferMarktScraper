@@ -104,10 +104,13 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
                     clubDict['competition_name'] = competitionName
                     clubDict['updated_date'] = str(datetime.now())
 
-                    clubValueField = driver.find_element_by_class_name('dataMarktwert')
-                    clubValue = clubValueField.find_element_by_css_selector('a').text
-                    clubValue += " " + clubValueField.find_element_by_class_name('waehrung').text
-                    clubDict['total_value'] = clubValue[:clubValue.index("€") + 1]
+                    if 'dataMarktwert' in driver.page_source:
+                        clubValueField = driver.find_element_by_class_name('dataMarktwert')
+                        clubValue = clubValueField.find_element_by_css_selector('a').text
+                        clubValue += " " + clubValueField.find_element_by_class_name('waehrung').text
+                        clubDict['total_value'] = clubValue[:clubValue.index("€") + 1]
+                    else:
+                        clubDict['total_value'] = ""
 
                     json.dump(clubDict, teamsJson, indent=4, ensure_ascii=False)
                     teamsJson.write(',')
@@ -117,25 +120,26 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
                 currentClubUrl = driver.current_url
 
                 for playerNumber in range(playerStart, len(allPlayerLinks)):
-                    if not os.path.isfile(competitionName + '.json'):
-                        with open(competitionName + '.json', 'a') as file:
+                    if not os.path.isfile("./datas/" + competitionName + '.json'):
+                        with open("./datas/" +competitionName + '.json', 'a') as file:
                             file.write("[")
                             file.close()
 
-                    playersJson = open(competitionName + '.json', 'a')
+                    playersJson = open("./datas/" + competitionName + '.json', 'a')
                     global playerBreakPoint
                     playerBreakPoint = playerNumber
                     playerClickFlag = False
                     try:
-                        playerNameAndLink = allPlayerLinks[playerNumber].find_element_by_class_name('spielprofil_tooltip.tooltipstered')
+                        playerNameAndLink = allPlayerLinks[playerNumber].find_element_by_class_name('spielprofil_tooltip')
                         playerName = playerNameAndLink.text
                         print("\t\t\t" + str(playerNumber) + ": " + playerName)
                         playerNameAndLink.click()
                         playerClickFlag = True
 
-                        player_stats_all = driver.find_elements_by_class_name('auflistung')
+                        player_stats_all = driver.find_element_by_class_name('spielerdaten')
+                        player_stats_all = player_stats_all.find_element_by_class_name('auflistung')
 
-                        player_stats_main = player_stats_all[2]
+                        player_stats_main = player_stats_all
                         player_bdate = ""
                         player_nation = ""
                         player_position = ""
@@ -143,7 +147,7 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
                         for stat in player_stats_main.find_elements_by_tag_name('tr'):
                             clean_info = stat.find_element_by_tag_name('td')
 
-                            if (stat.find_element_by_tag_name('th').text.strip() == 'Date of birth:'):
+                            if (stat.find_element_by_tag_name('th').text.strip() == 'Date of Birth:'):
                                 player_bdate = clean_info.text.strip()
                             elif (stat.find_element_by_tag_name('th').text.strip() == 'Nationality:'):
                                 player_nation = clean_info.text.strip()
@@ -158,6 +162,8 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
                             playerValue += " " + playerValueField.find_element_by_class_name('waehrung').text
                             playerValue = playerValue[:playerValue.index("€") + 1]
                             playerDict['value'] = playerValue
+                        else:
+                            playerDict['value'] = ""
 
                         playerDict['name'] = playerName
                         playerDict['date_of_birth'] = player_bdate
@@ -192,7 +198,7 @@ def parser(countryStart, competitionStart, clubStart, playerStart):
                 driver.back()
                 allClubLinks = driver.find_elements_by_class_name('hauptlink.no-border-links.show-for-small.show-for-pad')
 
-            with open(competitionName + '.json', 'a') as file:
+            with open("./datas/" + competitionName + '.json', 'a') as file:
                 file.write("{}]")
                 file.close()
 

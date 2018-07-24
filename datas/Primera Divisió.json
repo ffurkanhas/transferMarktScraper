@@ -1,0 +1,1553 @@
+[{
+    "value": "300 Th. €",
+    "name": "Odín Patiño",
+    "date_of_birth": "",
+    "nationality": "Mexico",
+    "position": "Goalkeeper",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:35:58.240314",
+    "player_index": "5, 0, 0, 0"
+},{
+    "value": "300 Th. €",
+    "name": "Odín Patiño",
+    "date_of_birth": "",
+    "nationality": "Mexico",
+    "position": "Goalkeeper",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:38:09.359628",
+    "player_index": "5, 0, 0, 0"
+},{
+    "name": "Joan Bayona",
+    "date_of_birth": "",
+    "nationality": "Spain",
+    "position": "Goalkeeper",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:38:19.693656",
+    "player_index": "5, 0, 0, 1"
+},{
+    "name": "Francesc Cabrera",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Goalkeeper",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:38:30.326396",
+    "player_index": "5, 0, 0, 2"
+},{
+    "name": "Oriol Fité",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Defender",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:38:41.403321",
+    "player_index": "5, 0, 0, 3"
+},{
+    "name": "Josep Cabanes",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Defender",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:38:48.848516",
+    "player_index": "5, 0, 0, 4"
+},{
+    "name": "Óscar Reyes",
+    "date_of_birth": "",
+    "nationality": "Spain",
+    "position": "Defender - Centre-Back",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:39:00.314674",
+    "player_index": "5, 0, 0, 5"
+},{
+    "name": "Alberto Lopo",
+    "date_of_birth": "",
+    "nationality": "Spain",
+    "position": "Defender - Centre-Back",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:39:09.288664",
+    "player_index": "5, 0, 0, 6"
+},{
+    "name": "Josep Foix",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Defender - Centre-Back",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:39:16.938949",
+    "player_index": "5, 0, 0, 7"
+},{
+    "name": "David Ribolleda",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Defender - Centre-Back",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:39:24.797556",
+    "player_index": "5, 0, 0, 8"
+},{
+    "name": "Rayco Rodriguez",
+    "date_of_birth": "",
+    "nationality": "Spain",
+    "position": "Defender - Centre-Back",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:39:32.441320",
+    "player_index": "5, 0, 0, 9"
+},{
+    "name": "Xavier Moreno",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Defender - Centre-Back",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:39:41.035425",
+    "player_index": "5, 0, 0, 10"
+},{
+    "name": "José García",
+    "date_of_birth": "",
+    "nationality": "Spain",
+    "position": "Defender - Right-Back",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:39:49.078308",
+    "player_index": "5, 0, 0, 11"
+},{
+    "name": "Aleix Bové",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Defender - Right-Back",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:39:58.756502",
+    "player_index": "5, 0, 0, 12"
+},{
+    "name": "Xavier Enes Rodrigues",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Midfielder",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:40:06.749860",
+    "player_index": "5, 0, 0, 13"
+},{
+    "name": "Luis Pinto",
+    "date_of_birth": "",
+    "nationality": "Andorra\n  Portugal",
+    "position": "Midfielder",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:40:15.491189",
+    "player_index": "5, 0, 0, 14"
+},{
+    "name": "Marc Cabanes",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Midfielder",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:40:23.778652",
+    "player_index": "5, 0, 0, 15"
+},{
+    "name": "Joel Martinez",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Midfielder",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:40:28.580656",
+    "player_index": "5, 0, 0, 16"
+},{
+    "name": "Marc Mompel Aguilar",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Midfielder",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:40:37.217022",
+    "player_index": "5, 0, 0, 17"
+},{
+    "name": "Adria Monge Boixader",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Midfielder",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:40:45.328750",
+    "player_index": "5, 0, 0, 18"
+},{
+    "value": "75 Th. €",
+    "name": "Josep Ayala",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:41:01.768446",
+    "player_index": "5, 0, 0, 19"
+},{
+    "name": "Joan Toscano",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Forward",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:41:12.310654",
+    "player_index": "5, 0, 0, 20"
+},{
+    "name": "Joel Roma Barbero",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Forward",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:41:16.944749",
+    "player_index": "5, 0, 0, 21"
+},{
+    "name": "Joel Roma Barbero",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Forward",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:41:21.685981",
+    "player_index": "5, 0, 0, 22"
+},{
+    "name": "Renato Mota",
+    "date_of_birth": "",
+    "nationality": "Portugal\n  Andorra",
+    "position": "Forward",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:41:27.328426",
+    "player_index": "5, 0, 0, 23"
+},{
+    "name": "German Damian Fernandez",
+    "date_of_birth": "",
+    "nationality": "Spain",
+    "position": "Forward",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:41:32.527099",
+    "player_index": "5, 0, 0, 24"
+},{
+    "name": "Maicon",
+    "date_of_birth": "",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:41:38.314171",
+    "player_index": "5, 0, 0, 25"
+},{
+    "name": "Xavier Gallart",
+    "date_of_birth": "",
+    "nationality": "Spain",
+    "position": "Forward",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:41:43.613363",
+    "player_index": "5, 0, 0, 26"
+},{
+    "name": "Alejandro Puga Caetano",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Forward",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:41:48.759445",
+    "player_index": "5, 0, 0, 27"
+},{
+    "name": "Marc Marin Navarro",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Forward",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:41:54.791734",
+    "player_index": "5, 0, 0, 28"
+},{
+    "name": "Sergio Moreno",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Forward - Left Winger",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:42:00.982363",
+    "player_index": "5, 0, 0, 29"
+},{
+    "name": "Ricardo Varela",
+    "date_of_birth": "",
+    "nationality": "Uruguay\n  Spain",
+    "position": "Forward - Right Winger",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:42:06.451343",
+    "player_index": "5, 0, 0, 30"
+},{
+    "name": "Samir Bousenine",
+    "date_of_birth": "",
+    "nationality": "Andorra\n  Morocco",
+    "position": "Forward - Right Winger",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:42:14.394284",
+    "player_index": "5, 0, 0, 31"
+},{
+    "name": "Xavier Andorra",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Forward - Centre-Forward",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:42:19.814068",
+    "player_index": "5, 0, 0, 32"
+},{
+    "name": "Albert Virgili",
+    "date_of_birth": "",
+    "nationality": "Spain",
+    "position": "Forward - Centre-Forward",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:42:24.446284",
+    "player_index": "5, 0, 0, 33"
+},{
+    "name": "Albert Virgili",
+    "date_of_birth": "Feb 13, 1983",
+    "nationality": "Spain",
+    "position": "Forward - Centre-Forward",
+    "current_club": "IC d'Escaldes",
+    "updated_date": "2018-07-23 19:45:10.003306",
+    "player_index": "5, 0, 0, 33"
+},{
+    "name": "Eloy Casals",
+    "date_of_birth": "Oct 22, 1982",
+    "nationality": "Spain",
+    "position": "Goalkeeper",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:46:00.965730",
+    "player_index": "5, 0, 1, 0"
+},{
+    "name": "Joel Garcia",
+    "date_of_birth": "Mar 1, 1995",
+    "nationality": "Andorra",
+    "position": "Goalkeeper",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:46:10.637690",
+    "player_index": "5, 0, 1, 1"
+},{
+    "name": "Andrés Benítez",
+    "date_of_birth": "Jan 11, 1983",
+    "nationality": "Paraguay",
+    "position": "Goalkeeper",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:46:19.358983",
+    "player_index": "5, 0, 1, 2"
+},{
+    "name": "Aleix Cistero",
+    "date_of_birth": "Jun 25, 1994",
+    "nationality": "Spain",
+    "position": "Defender",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:46:25.514909",
+    "player_index": "5, 0, 1, 3"
+},{
+    "name": "Robert Ramos",
+    "date_of_birth": "Dec 11, 1992",
+    "nationality": "Spain",
+    "position": "Defender",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:46:33.326164",
+    "player_index": "5, 0, 1, 4"
+},{
+    "value": "75 Th. €",
+    "name": "Ildefons Lima",
+    "date_of_birth": "Dec 10, 1979",
+    "nationality": "Andorra\n  Spain",
+    "position": "Defender - Centre-Back",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:46:43.395673",
+    "player_index": "5, 0, 1, 5"
+},{
+    "name": "Moisés San Nicolás",
+    "date_of_birth": "Sep 17, 1993",
+    "nationality": "Andorra\n  Belgium",
+    "position": "Defender - Centre-Back",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:46:52.141568",
+    "player_index": "5, 0, 1, 6"
+},{
+    "name": "Marc Rebés",
+    "date_of_birth": "Jul 3, 1994",
+    "nationality": "Andorra",
+    "position": "Defender - Centre-Back",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:46:59.961486",
+    "player_index": "5, 0, 1, 7"
+},{
+    "name": "Andreu Ramos",
+    "date_of_birth": "Jan 19, 1989",
+    "nationality": "Spain",
+    "position": "Defender - Right-Back",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:47:05.749832",
+    "player_index": "5, 0, 1, 8"
+},{
+    "name": "Antonio Marinho",
+    "date_of_birth": "May 30, 1994",
+    "nationality": "Portugal",
+    "position": "Midfielder",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:47:14.077063",
+    "player_index": "5, 0, 1, 9"
+},{
+    "value": "150 Th. €",
+    "name": "Yago Pérez",
+    "date_of_birth": "Dec 31, 1987",
+    "nationality": "Spain",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:47:24.015034",
+    "player_index": "5, 0, 1, 10"
+},{
+    "name": "Pedro Santos",
+    "date_of_birth": "Jun 1, 1993",
+    "nationality": "Spain",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:47:34.486786",
+    "player_index": "5, 0, 1, 11"
+},{
+    "name": "Jaime Noguerol",
+    "date_of_birth": "Feb 24, 1984",
+    "nationality": "Spain",
+    "position": "Midfielder - Attacking Midfield",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:47:43.925799",
+    "player_index": "5, 0, 1, 12"
+},{
+    "name": "Juli Sánchez",
+    "date_of_birth": "Jun 20, 1978",
+    "nationality": "Andorra",
+    "position": "Forward",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:47:51.413350",
+    "player_index": "5, 0, 1, 13"
+},{
+    "name": "Ibán Parra",
+    "date_of_birth": "Aug 26, 1977",
+    "nationality": "Spain",
+    "position": "Forward",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:47:58.531143",
+    "player_index": "5, 0, 1, 14"
+},{
+    "value": "50 Th. €",
+    "name": "Lorenzo Burón",
+    "date_of_birth": "Oct 6, 1994",
+    "nationality": "Spain",
+    "position": "Forward - Left Winger",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:48:08.601480",
+    "player_index": "5, 0, 1, 15"
+},{
+    "name": "André Azevedo",
+    "date_of_birth": "Jul 19, 1990",
+    "nationality": "Portugal",
+    "position": "Forward - Left Winger",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:48:18.094388",
+    "player_index": "5, 0, 1, 16"
+},{
+    "name": "Josep Maria Tizón",
+    "date_of_birth": "Oct 3, 1997",
+    "nationality": "Andorra",
+    "position": "Forward - Left Winger",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:48:26.709331",
+    "player_index": "5, 0, 1, 17"
+},{
+    "name": "Juanfer",
+    "date_of_birth": "May 5, 1983",
+    "nationality": "Spain",
+    "position": "Forward - Right Winger",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:48:36.000782",
+    "player_index": "5, 0, 1, 18"
+},{
+    "name": "Víctor Rodríguez",
+    "date_of_birth": "Sep 7, 1987",
+    "nationality": "Andorra",
+    "position": "Forward - Right Winger",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:48:45.141494",
+    "player_index": "5, 0, 1, 19"
+},{
+    "value": "50 Th. €",
+    "name": "Juanma Torres",
+    "date_of_birth": "Feb 23, 1990",
+    "nationality": "Spain",
+    "position": "Forward - Centre-Forward",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:48:57.608627",
+    "player_index": "5, 0, 1, 20"
+},{
+    "name": "Cédric Fauré",
+    "date_of_birth": "Feb 14, 1979",
+    "nationality": "France",
+    "position": "Forward - Centre-Forward",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:49:06.851268",
+    "player_index": "5, 0, 1, 21"
+},{
+    "name": "Albert Mercadé",
+    "date_of_birth": "Jan 23, 1985",
+    "nationality": "Spain",
+    "position": "Forward - Centre-Forward",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:49:16.605888",
+    "player_index": "5, 0, 1, 22"
+},{
+    "name": "Gabi Riera",
+    "date_of_birth": "Jun 5, 1985",
+    "nationality": "Andorra",
+    "position": "Forward - Centre-Forward",
+    "current_club": "FC Santa Coloma",
+    "updated_date": "2018-07-23 19:49:27.268069",
+    "player_index": "5, 0, 1, 23"
+},{
+    "name": "Dany Fernandes",
+    "date_of_birth": "May 29, 1996",
+    "nationality": "France\n  Portugal",
+    "position": "Goalkeeper",
+    "current_club": "FC Ordino",
+    "updated_date": "2018-07-23 19:51:40.433161",
+    "player_index": "5, 0, 2, 0"
+},{
+    "name": "Marc Corredera",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Goalkeeper",
+    "current_club": "FC Ordino",
+    "updated_date": "2018-07-23 19:51:48.752774",
+    "player_index": "5, 0, 2, 1"
+},{
+    "name": "Marc Joval",
+    "date_of_birth": "Mar 13, 1989",
+    "nationality": "Andorra",
+    "position": "Midfielder",
+    "current_club": "FC Ordino",
+    "updated_date": "2018-07-23 19:51:55.158896",
+    "player_index": "5, 0, 2, 2"
+},{
+    "name": "Sebastià Bertrán",
+    "date_of_birth": "Dec 10, 1992",
+    "nationality": "Andorra",
+    "position": "Midfielder - Attacking Midfield",
+    "current_club": "FC Ordino",
+    "updated_date": "2018-07-23 19:53:32.914645",
+    "player_index": "5, 0, 2, 3"
+},{
+    "value": "300 Th. €",
+    "name": "Walter Eduardo Gómez",
+    "date_of_birth": "Aug 28, 1981",
+    "nationality": "Argentina",
+    "position": "Forward - Left Winger",
+    "current_club": "FC Ordino",
+    "updated_date": "2018-07-23 19:55:11.785225",
+    "player_index": "5, 0, 2, 4"
+},{
+    "name": "Jesús Coca",
+    "date_of_birth": "May 22, 1989",
+    "nationality": "Spain",
+    "position": "Goalkeeper",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 19:57:26.602113",
+    "player_index": "5, 0, 3, 0"
+},{
+    "name": "Robi",
+    "date_of_birth": "Aug 18, 1987",
+    "nationality": "Andorra",
+    "position": "Goalkeeper",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 19:57:37.124950",
+    "player_index": "5, 0, 3, 1"
+},{
+    "name": "Brian Maneiro",
+    "date_of_birth": "Jun 30, 1994",
+    "nationality": "Andorra",
+    "position": "Defender",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 19:57:46.001234",
+    "player_index": "5, 0, 3, 2"
+},{
+    "name": "Sebastián Varela",
+    "date_of_birth": "Sep 23, 1980",
+    "nationality": "Uruguay",
+    "position": "Defender",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 19:57:55.818263",
+    "player_index": "5, 0, 3, 3"
+},{
+    "name": "Christian Cellay",
+    "date_of_birth": "Sep 5, 1981",
+    "nationality": "Argentina",
+    "position": "Defender - Centre-Back",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 19:58:06.644115",
+    "player_index": "5, 0, 3, 4"
+},{
+    "name": "Rafael Brito",
+    "date_of_birth": "Jul 6, 1986",
+    "nationality": "Portugal",
+    "position": "Defender - Centre-Back",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 19:58:15.477580",
+    "player_index": "5, 0, 3, 5"
+},{
+    "name": "Walter Wagner",
+    "date_of_birth": "Jan 12, 1981",
+    "nationality": "Argentina",
+    "position": "Defender - Left-Back",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 19:58:24.925573",
+    "player_index": "5, 0, 3, 6"
+},{
+    "name": "Christián Paredes",
+    "date_of_birth": "Apr 16, 1987",
+    "nationality": "Peru",
+    "position": "Defender - Right-Back",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 19:58:35.157610",
+    "player_index": "5, 0, 3, 7"
+},{
+    "name": "Mateo Rodríguez",
+    "date_of_birth": "May 25, 1993",
+    "nationality": "Uruguay\n  Spain",
+    "position": "Defender - Right-Back",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 19:58:42.287379",
+    "player_index": "5, 0, 3, 8"
+},{
+    "name": "Miguel Ruiz",
+    "date_of_birth": "Jul 16, 1982",
+    "nationality": "Spain",
+    "position": "Defender - Right-Back",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 19:58:50.554331",
+    "player_index": "5, 0, 3, 9"
+},{
+    "name": "Hamza Ryahi Bouharma",
+    "date_of_birth": "Mar 11, 1994",
+    "nationality": "Tunisia",
+    "position": "Midfielder",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 19:59:34.311590",
+    "player_index": "5, 0, 3, 10"
+},{
+    "name": "Mario Spano",
+    "date_of_birth": "Feb 7, 1986",
+    "nationality": "Uruguay",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 19:59:43.969471",
+    "player_index": "5, 0, 3, 11"
+},{
+    "name": "Cristopher Pousa",
+    "date_of_birth": "Jun 29, 1992",
+    "nationality": "Andorra",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 19:59:52.602308",
+    "player_index": "5, 0, 3, 12"
+},{
+    "name": "Carlos Edu Peppe",
+    "date_of_birth": "Jan 28, 1983",
+    "nationality": "Andorra\n  Uruguay",
+    "position": "Midfielder - Attacking Midfield",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 20:00:01.439483",
+    "player_index": "5, 0, 3, 13"
+},{
+    "name": "Joao Pedro Lopes",
+    "date_of_birth": "Oct 9, 1991",
+    "nationality": "Andorra",
+    "position": "Midfielder - Attacking Midfield",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 20:00:11.286692",
+    "player_index": "5, 0, 3, 14"
+},{
+    "name": "Luigi San Nicolas",
+    "date_of_birth": "Jun 28, 1992",
+    "nationality": "Andorra",
+    "position": "Forward",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 20:00:23.233867",
+    "player_index": "5, 0, 3, 15"
+},{
+    "name": "Rodrigo Guida",
+    "date_of_birth": "Aug 24, 1982",
+    "nationality": "Argentina\n  Andorra",
+    "position": "Forward",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 20:00:32.065448",
+    "player_index": "5, 0, 3, 16"
+},{
+    "name": "Morgan Lafont",
+    "date_of_birth": "Nov 22, 1996",
+    "nationality": "France",
+    "position": "Forward - Left Winger",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 20:00:41.863129",
+    "player_index": "5, 0, 3, 17"
+},{
+    "name": "Figliamonte",
+    "date_of_birth": "Jul 4, 1994",
+    "nationality": "Uruguay",
+    "position": "Forward - Left Winger",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 20:00:50.858336",
+    "player_index": "5, 0, 3, 18"
+},{
+    "value": "200 Th. €",
+    "name": "Nicolás Alonso",
+    "date_of_birth": "Jan 26, 1992",
+    "nationality": "Uruguay",
+    "position": "Forward - Right Winger",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 20:00:58.864637",
+    "player_index": "5, 0, 3, 19"
+},{
+    "value": "50 Th. €",
+    "name": "Bruninho",
+    "date_of_birth": "Jan 11, 1986",
+    "nationality": "Portugal",
+    "position": "Forward - Right Winger",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 20:03:15.910631",
+    "player_index": "5, 0, 3, 20"
+},{
+    "name": "Larsen Touré",
+    "date_of_birth": "Jul 20, 1984",
+    "nationality": "Guinea\n  France",
+    "position": "Forward - Right Winger",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 20:03:27.047987",
+    "player_index": "5, 0, 3, 21"
+},{
+    "name": "Fabio Serra",
+    "date_of_birth": "Aug 24, 1984",
+    "nationality": "Portugal",
+    "position": "Forward - Right Winger",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 20:03:38.092966",
+    "player_index": "5, 0, 3, 22"
+},{
+    "name": "Sebastián Gómez",
+    "date_of_birth": "Nov 1, 1983",
+    "nationality": "Andorra\n  Uruguay",
+    "position": "Forward - Centre-Forward",
+    "current_club": "UE Engordany",
+    "updated_date": "2018-07-23 20:03:46.310054",
+    "player_index": "5, 0, 3, 23"
+},{
+    "value": "100 Th. €",
+    "name": "Nicolás Ratti",
+    "date_of_birth": "Sep 18, 1993",
+    "nationality": "Argentina\n  Italy",
+    "position": "Goalkeeper",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:04:33.698971",
+    "player_index": "5, 0, 4, 0"
+},{
+    "name": "Didac Giribet Iglesias",
+    "date_of_birth": "Jul 7, 1994",
+    "nationality": "Andorra",
+    "position": "Goalkeeper",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:04:41.933179",
+    "player_index": "5, 0, 4, 1"
+},{
+    "name": "German Boga",
+    "date_of_birth": "Oct 21, 1983",
+    "nationality": "Andorra",
+    "position": "Goalkeeper",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:04:49.973049",
+    "player_index": "5, 0, 4, 2"
+},{
+    "name": "Pedro Muñoz",
+    "date_of_birth": "Jan 9, 1988",
+    "nationality": "Spain",
+    "position": "Defender",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:04:59.286112",
+    "player_index": "5, 0, 4, 3"
+},{
+    "name": "Jonny",
+    "date_of_birth": "Nov 30, 1994",
+    "nationality": "Spain",
+    "position": "Defender",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:05:10.990471",
+    "player_index": "5, 0, 4, 4"
+},{
+    "value": "50 Th. €",
+    "name": "Lucas Maciel",
+    "date_of_birth": "Mar 6, 1991",
+    "nationality": "Portugal",
+    "position": "Defender - Centre-Back",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:05:22.521357",
+    "player_index": "5, 0, 4, 5"
+},{
+    "name": "Emiliano Nahuel Fortete Villa",
+    "date_of_birth": "Jan 15, 1993",
+    "nationality": "Argentina",
+    "position": "Defender - Centre-Back",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:05:32.125583",
+    "player_index": "5, 0, 4, 6"
+},{
+    "value": "50 Th. €",
+    "name": "Enric Pi",
+    "date_of_birth": "May 20, 1983",
+    "nationality": "Spain",
+    "position": "Defender - Left-Back",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:05:43.273724",
+    "player_index": "5, 0, 4, 7"
+},{
+    "name": "Nicolae Vasile",
+    "date_of_birth": "Dec 29, 1995",
+    "nationality": "Romania",
+    "position": "Defender - Left-Back",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:05:51.895566",
+    "player_index": "5, 0, 4, 8"
+},{
+    "name": "Eric Rodríguez",
+    "date_of_birth": "Apr 2, 1993",
+    "nationality": "Andorra",
+    "position": "Defender - Left-Back",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:05:59.756429",
+    "player_index": "5, 0, 4, 9"
+},{
+    "name": "Alejandro Espinoza",
+    "date_of_birth": "Dec 16, 1992",
+    "nationality": "Argentina",
+    "position": "Defender - Right-Back",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:06:09.514818",
+    "player_index": "5, 0, 4, 10"
+},{
+    "name": "Iván Vigo",
+    "date_of_birth": "Sep 7, 1986",
+    "nationality": "Spain",
+    "position": "Defender - Right-Back",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:06:18.417407",
+    "player_index": "5, 0, 4, 11"
+},{
+    "name": "Jamal Zarioh",
+    "date_of_birth": "Jan 30, 1989",
+    "nationality": "Andorra",
+    "position": "Midfielder",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:06:27.342605",
+    "player_index": "5, 0, 4, 12"
+},{
+    "name": "Francisco Girau",
+    "date_of_birth": "Jun 3, 1985",
+    "nationality": "Spain",
+    "position": "Midfielder",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:06:34.969696",
+    "player_index": "5, 0, 4, 13"
+},{
+    "name": "José Antonio Aguilar",
+    "date_of_birth": "Oct 11, 1989",
+    "nationality": "Spain",
+    "position": "Midfielder",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:06:43.250908",
+    "player_index": "5, 0, 4, 14"
+},{
+    "name": "Roger Ezquer",
+    "date_of_birth": "",
+    "nationality": "Spain",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:06:50.401739",
+    "player_index": "5, 0, 4, 15"
+},{
+    "name": "Miguel Ángel Luque",
+    "date_of_birth": "Jul 23, 1990 Happy Birthday",
+    "nationality": "Spain",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:07:01.677057",
+    "player_index": "5, 0, 4, 16"
+},{
+    "name": "Luis Blanco",
+    "date_of_birth": "Jan 15, 1990",
+    "nationality": "Andorra\n  Spain",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:07:11.881223",
+    "player_index": "5, 0, 4, 17"
+},{
+    "name": "Leonel Alves",
+    "date_of_birth": "Sep 28, 1993",
+    "nationality": "Andorra",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:07:19.313648",
+    "player_index": "5, 0, 4, 18"
+},{
+    "name": "Albert Reyes",
+    "date_of_birth": "Mar 24, 1996",
+    "nationality": "Andorra",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:07:31.089101",
+    "player_index": "5, 0, 4, 19"
+},{
+    "name": "Diego Nájero",
+    "date_of_birth": "Dec 11, 1994",
+    "nationality": "Mexico",
+    "position": "Forward",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:07:41.486675",
+    "player_index": "5, 0, 4, 20"
+},{
+    "name": "Daniel Liñares Gonzalez",
+    "date_of_birth": "May 16, 1998",
+    "nationality": "Spain",
+    "position": "Forward",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:07:49.965130",
+    "player_index": "5, 0, 4, 21"
+},{
+    "name": "Samy Pierre Burel",
+    "date_of_birth": "Nov 30, 1993",
+    "nationality": "France",
+    "position": "Forward",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:07:59.645876",
+    "player_index": "5, 0, 4, 22"
+},{
+    "name": "Icaro",
+    "date_of_birth": "Jun 26, 1998",
+    "nationality": "Brazil",
+    "position": "Forward",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:08:08.461516",
+    "player_index": "5, 0, 4, 23"
+},{
+    "name": "Noah Baffoe",
+    "date_of_birth": "May 21, 1993",
+    "nationality": "Ghana",
+    "position": "Forward",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:08:20.311557",
+    "player_index": "5, 0, 4, 24"
+},{
+    "name": "Walter Fernández",
+    "date_of_birth": "Aug 14, 1989",
+    "nationality": "Spain",
+    "position": "Forward - Left Winger",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:08:28.650634",
+    "player_index": "5, 0, 4, 25"
+},{
+    "name": "Alberto Molina",
+    "date_of_birth": "Apr 21, 1988",
+    "nationality": "Spain",
+    "position": "Forward - Right Winger",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:08:37.569374",
+    "player_index": "5, 0, 4, 26"
+},{
+    "value": "50 Th. €",
+    "name": "Villa",
+    "date_of_birth": "Aug 16, 1985",
+    "nationality": "Spain",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:08:49.516199",
+    "player_index": "5, 0, 4, 27"
+},{
+    "name": "Vincent Ramaël",
+    "date_of_birth": "Jun 22, 1988",
+    "nationality": "France",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:08:59.995876",
+    "player_index": "5, 0, 4, 28"
+},{
+    "name": "Joel Méndez",
+    "date_of_birth": "May 1, 1995",
+    "nationality": "Spain",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Sant Julia",
+    "updated_date": "2018-07-23 20:09:07.956338",
+    "player_index": "5, 0, 4, 29"
+},{
+    "name": "Victor Silverio",
+    "date_of_birth": "Apr 15, 1997",
+    "nationality": "Andorra",
+    "position": "Goalkeeper",
+    "current_club": "Lusitanos",
+    "updated_date": "2018-07-23 20:09:54.282552",
+    "player_index": "5, 0, 5, 0"
+},{
+    "name": "Mathurin Sakho",
+    "date_of_birth": "Mar 10, 1995",
+    "nationality": "France\n  Senegal",
+    "position": "Defender",
+    "current_club": "Lusitanos",
+    "updated_date": "2018-07-23 20:10:07.257527",
+    "player_index": "5, 0, 5, 1"
+},{
+    "name": "Francesc Estragues Valor",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Defender",
+    "current_club": "Lusitanos",
+    "updated_date": "2018-07-23 20:10:14.806457",
+    "player_index": "5, 0, 5, 2"
+},{
+    "name": "Daniel Ribeiro",
+    "date_of_birth": "Nov 30, 1991",
+    "nationality": "Andorra",
+    "position": "Defender",
+    "current_club": "Lusitanos",
+    "updated_date": "2018-07-23 20:10:23.302078",
+    "player_index": "5, 0, 5, 3"
+},{
+    "value": "25 Th. €",
+    "name": "Abdoulaye Méïté",
+    "date_of_birth": "Oct 6, 1980",
+    "nationality": "Cote d'Ivoire\n  France",
+    "position": "Defender - Centre-Back",
+    "current_club": "Lusitanos",
+    "updated_date": "2018-07-23 20:10:34.465987",
+    "player_index": "5, 0, 5, 4"
+},{
+    "value": "150 Th. €",
+    "name": "Pedro Araújo",
+    "date_of_birth": "Jan 10, 1985",
+    "nationality": "Portugal",
+    "position": "Defender - Left-Back",
+    "current_club": "Lusitanos",
+    "updated_date": "2018-07-23 20:10:46.638035",
+    "player_index": "5, 0, 5, 5"
+},{
+    "name": "Rui Beja",
+    "date_of_birth": "Apr 14, 1993",
+    "nationality": "Portugal",
+    "position": "Defender - Right-Back",
+    "current_club": "Lusitanos",
+    "updated_date": "2018-07-23 20:10:52.335476",
+    "player_index": "5, 0, 5, 6"
+},{
+    "name": "Hugo Victor Costa Goncalves",
+    "date_of_birth": "",
+    "nationality": "Portugal",
+    "position": "Midfielder",
+    "current_club": "Lusitanos",
+    "updated_date": "2018-07-23 20:10:59.950207",
+    "player_index": "5, 0, 5, 7"
+},{
+    "name": "Florent Delpuech",
+    "date_of_birth": "Feb 15, 1996",
+    "nationality": "France",
+    "position": "Midfielder",
+    "current_club": "Lusitanos",
+    "updated_date": "2018-07-23 20:11:10.217627",
+    "player_index": "5, 0, 5, 8"
+},{
+    "name": "Matías Martínez",
+    "date_of_birth": "Aug 12, 1994",
+    "nationality": "Paraguay",
+    "position": "Midfielder",
+    "current_club": "Lusitanos",
+    "updated_date": "2018-07-23 20:11:21.417300",
+    "player_index": "5, 0, 5, 9"
+},{
+    "name": "David Sebastian Cortez",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Midfielder",
+    "current_club": "Lusitanos",
+    "updated_date": "2018-07-23 20:11:30.687596",
+    "player_index": "5, 0, 5, 10"
+},{
+    "name": "Xavier Vieira",
+    "date_of_birth": "Jan 14, 1992",
+    "nationality": "Andorra",
+    "position": "Midfielder - Central Midfield",
+    "current_club": "Lusitanos",
+    "updated_date": "2018-07-23 20:11:43.497115",
+    "player_index": "5, 0, 5, 11"
+},{
+    "name": "Diego Marinho",
+    "date_of_birth": "Jun 16, 1992",
+    "nationality": "Andorra",
+    "position": "Midfielder - Attacking Midfield",
+    "current_club": "Lusitanos",
+    "updated_date": "2018-07-23 20:11:51.566591",
+    "player_index": "5, 0, 5, 12"
+},{
+    "name": "Jonathan Santiago",
+    "date_of_birth": "Jun 9, 1994",
+    "nationality": "France",
+    "position": "Midfielder - Attacking Midfield",
+    "current_club": "Lusitanos",
+    "updated_date": "2018-07-23 20:12:00.354936",
+    "player_index": "5, 0, 5, 13"
+},{
+    "name": "Alexandre Llovet",
+    "date_of_birth": "Nov 26, 1997",
+    "nationality": "France",
+    "position": "Forward",
+    "current_club": "Lusitanos",
+    "updated_date": "2018-07-23 20:12:09.086235",
+    "player_index": "5, 0, 5, 14"
+},{
+    "name": "Jean Vidian Valrius",
+    "date_of_birth": "Jun 24, 1988",
+    "nationality": "France",
+    "position": "Forward",
+    "current_club": "Lusitanos",
+    "updated_date": "2018-07-23 20:12:17.152656",
+    "player_index": "5, 0, 5, 15"
+},{
+    "name": "Michel Nzongo Dialungana",
+    "date_of_birth": "Aug 5, 1996",
+    "nationality": "Angola\n  France",
+    "position": "Forward",
+    "current_club": "Lusitanos",
+    "updated_date": "2018-07-23 20:12:24.247562",
+    "player_index": "5, 0, 5, 16"
+},{
+    "name": "Kévin Parienté",
+    "date_of_birth": "Jan 19, 1987",
+    "nationality": "France",
+    "position": "Forward - Right Winger",
+    "current_club": "Lusitanos",
+    "updated_date": "2018-07-23 20:12:35.111443",
+    "player_index": "5, 0, 5, 17"
+},{
+    "name": "Luís dos Reis",
+    "date_of_birth": "Mar 22, 1981",
+    "nationality": "Portugal",
+    "position": "Forward - Right Winger",
+    "current_club": "Lusitanos",
+    "updated_date": "2018-07-23 20:12:43.414216",
+    "player_index": "5, 0, 5, 18"
+},{
+    "name": "Carlos Gomes",
+    "date_of_birth": "Oct 18, 1993",
+    "nationality": "Andorra",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Lusitanos",
+    "updated_date": "2018-07-23 20:12:53.250146",
+    "player_index": "5, 0, 5, 19"
+},{
+    "name": "Friday Godswill",
+    "date_of_birth": "May 2, 1985",
+    "nationality": "Nigeria",
+    "position": "Goalkeeper",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:17:08.797880",
+    "player_index": "5, 0, 6, 1"
+},{
+    "name": "Aitor Pascual Azzopardi",
+    "date_of_birth": "Dec 15, 1993",
+    "nationality": "Andorra",
+    "position": "Defender",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:17:20.925035",
+    "player_index": "5, 0, 6, 2"
+},{
+    "name": "André Marinho",
+    "date_of_birth": "Mar 26, 1993",
+    "nationality": "Andorra",
+    "position": "Defender",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:17:28.471759",
+    "player_index": "5, 0, 6, 3"
+},{
+    "name": "David Villanueva",
+    "date_of_birth": "Nov 30, 1995",
+    "nationality": "Spain",
+    "position": "Defender",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:17:37.373568",
+    "player_index": "5, 0, 6, 4"
+},{
+    "name": "Christhian Barreto",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Defender",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:17:45.838612",
+    "player_index": "5, 0, 6, 5"
+},{
+    "name": "Xavier Prat",
+    "date_of_birth": "Apr 28, 1992",
+    "nationality": "Andorra",
+    "position": "Defender",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:17:54.524128",
+    "player_index": "5, 0, 6, 6"
+},{
+    "name": "Andrés Briñez",
+    "date_of_birth": "",
+    "nationality": "Colombia",
+    "position": "Defender",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:18:04.721376",
+    "player_index": "5, 0, 6, 7"
+},{
+    "name": "Gabi Cunha",
+    "date_of_birth": "Jul 27, 1996",
+    "nationality": "Andorra",
+    "position": "Defender",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:18:13.692792",
+    "player_index": "5, 0, 6, 8"
+},{
+    "name": "Daniel Alves",
+    "date_of_birth": "May 13, 1997",
+    "nationality": "Andorra",
+    "position": "Defender",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:18:22.301907",
+    "player_index": "5, 0, 6, 9"
+},{
+    "name": "Paulo Queiros",
+    "date_of_birth": "Sep 24, 1995",
+    "nationality": "Andorra",
+    "position": "Defender",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:18:30.875741",
+    "player_index": "5, 0, 6, 10"
+},{
+    "name": "Luis Jacobo Velasco Gracia",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Defender",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:18:39.169187",
+    "player_index": "5, 0, 6, 11"
+},{
+    "name": "Txema",
+    "date_of_birth": "Dec 4, 1974",
+    "nationality": "Andorra",
+    "position": "Defender - Left-Back",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:18:47.918903",
+    "player_index": "5, 0, 6, 12"
+},{
+    "name": "Jonathan Ferreira",
+    "date_of_birth": "Jun 17, 1993",
+    "nationality": "Andorra",
+    "position": "Defender - Right-Back",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:18:56.727191",
+    "player_index": "5, 0, 6, 13"
+},{
+    "name": "Albert Ramírez",
+    "date_of_birth": "Feb 5, 1987",
+    "nationality": "Andorra",
+    "position": "Midfielder",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:19:05.126297",
+    "player_index": "5, 0, 6, 14"
+},{
+    "name": "Nicolás Emir Mignani",
+    "date_of_birth": "Jan 25, 1985",
+    "nationality": "Argentina",
+    "position": "Midfielder",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:19:13.574025",
+    "player_index": "5, 0, 6, 15"
+},{
+    "name": "Paquito Peña",
+    "date_of_birth": "Dec 24, 1988",
+    "nationality": "Andorra",
+    "position": "Midfielder",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:19:21.517244",
+    "player_index": "5, 0, 6, 16"
+},{
+    "name": "Hector Agustin Sosa",
+    "date_of_birth": "",
+    "nationality": "Argentina",
+    "position": "Midfielder",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:19:32.065549",
+    "player_index": "5, 0, 6, 17"
+},{
+    "name": "Brian Teixeira",
+    "date_of_birth": "Jun 26, 1995",
+    "nationality": "Andorra",
+    "position": "Midfielder",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:19:42.936135",
+    "player_index": "5, 0, 6, 18"
+},{
+    "name": "Rafael Martins",
+    "date_of_birth": "Nov 7, 1991",
+    "nationality": "Andorra",
+    "position": "Midfielder",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:19:51.452355",
+    "player_index": "5, 0, 6, 19"
+},{
+    "name": "Oriol González",
+    "date_of_birth": "Feb 2, 1992",
+    "nationality": "Spain",
+    "position": "Midfielder",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:20:00.588304",
+    "player_index": "5, 0, 6, 20"
+},{
+    "name": "Miquel Torres Vila",
+    "date_of_birth": "Oct 7, 1998",
+    "nationality": "Andorra",
+    "position": "Midfielder",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:20:08.005387",
+    "player_index": "5, 0, 6, 21"
+},{
+    "name": "Christian Fernandes Coelho",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Midfielder",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:20:18.376369",
+    "player_index": "5, 0, 6, 22"
+},{
+    "name": "Manuel Sepúlveda",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Midfielder",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:20:31.320598",
+    "player_index": "5, 0, 6, 23"
+},{
+    "name": "Dominic Pereira",
+    "date_of_birth": "May 4, 1994",
+    "nationality": "Andorra",
+    "position": "Midfielder - Defensive Midfield",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:20:40.920938",
+    "player_index": "5, 0, 6, 24"
+},{
+    "name": "Eugenio Peralta",
+    "date_of_birth": "Dec 16, 1977",
+    "nationality": "Paraguay",
+    "position": "Forward",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:20:49.699201",
+    "player_index": "5, 0, 6, 25"
+},{
+    "name": "Helder Alves Lopes",
+    "date_of_birth": "Jan 25, 1994",
+    "nationality": "Andorra",
+    "position": "Forward",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:20:57.395074",
+    "player_index": "5, 0, 6, 26"
+},{
+    "name": "Pinto Pedro",
+    "date_of_birth": "May 15, 1994",
+    "nationality": "Andorra",
+    "position": "Forward",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:21:06.074347",
+    "player_index": "5, 0, 6, 27"
+},{
+    "name": "Andreu Matos",
+    "date_of_birth": "Dec 1, 1995",
+    "nationality": "Andorra",
+    "position": "Forward - Left Winger",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:21:18.078511",
+    "player_index": "5, 0, 6, 28"
+},{
+    "name": "Cristian González",
+    "date_of_birth": "Jul 30, 1997",
+    "nationality": "Andorra",
+    "position": "Forward - Right Winger",
+    "current_club": "FC Encamp",
+    "updated_date": "2018-07-23 21:21:26.225796",
+    "player_index": "5, 0, 6, 29"
+},{
+    "name": "José Eduardo Escalante",
+    "date_of_birth": "Sep 28, 1994",
+    "nationality": "Mexico",
+    "position": "Goalkeeper",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:22:05.162961",
+    "player_index": "5, 0, 7, 0"
+},{
+    "name": "Gerardo Rubio",
+    "date_of_birth": "May 17, 1987",
+    "nationality": "Spain",
+    "position": "Goalkeeper",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:22:21.576738",
+    "player_index": "5, 0, 7, 1"
+},{
+    "name": "Ricard Fernández",
+    "date_of_birth": "May 26, 1975",
+    "nationality": "Spain",
+    "position": "Goalkeeper",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:22:30.246288",
+    "player_index": "5, 0, 7, 2"
+},{
+    "name": "Joel Palau",
+    "date_of_birth": "",
+    "nationality": "Andorra",
+    "position": "Defender",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:22:40.101069",
+    "player_index": "5, 0, 7, 3"
+},{
+    "name": "David Maneiro",
+    "date_of_birth": "Feb 16, 1989",
+    "nationality": "Andorra",
+    "position": "Defender - Centre-Back",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:22:47.006182",
+    "player_index": "5, 0, 7, 4"
+},{
+    "name": "Alexandre Gutiérrez",
+    "date_of_birth": "Mar 4, 1987",
+    "nationality": "Andorra",
+    "position": "Defender - Centre-Back",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:22:55.737468",
+    "player_index": "5, 0, 7, 5"
+},{
+    "name": "Walid Bousenine",
+    "date_of_birth": "Apr 7, 1993",
+    "nationality": "Andorra\n  Morocco",
+    "position": "Defender - Centre-Back",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:23:04.524210",
+    "player_index": "5, 0, 7, 6"
+},{
+    "name": "Cristian Orosa",
+    "date_of_birth": "Dec 12, 1990",
+    "nationality": "Andorra\n  Spain",
+    "position": "Defender - Centre-Back",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:23:12.988630",
+    "player_index": "5, 0, 7, 7"
+},{
+    "name": "Jordi Rubio",
+    "date_of_birth": "Nov 1, 1987",
+    "nationality": "Andorra",
+    "position": "Defender - Right-Back",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:23:21.180382",
+    "player_index": "5, 0, 7, 8"
+},{
+    "name": "Leonel Maciel",
+    "date_of_birth": "Jul 2, 1982",
+    "nationality": "Portugal\n  France",
+    "position": "Defender - Right-Back",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:23:35.049684",
+    "player_index": "5, 0, 7, 9"
+},{
+    "name": "Eric Mateu",
+    "date_of_birth": "May 7, 1999",
+    "nationality": "Andorra",
+    "position": "Midfielder",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:23:43.492865",
+    "player_index": "5, 0, 7, 10"
+},{
+    "name": "Joel Malaga Ibarz",
+    "date_of_birth": "Dec 27, 1997",
+    "nationality": "Andorra",
+    "position": "Midfielder",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:23:52.420086",
+    "player_index": "5, 0, 7, 11"
+},{
+    "name": "Sandro Gutiérrez",
+    "date_of_birth": "Jan 2, 1996",
+    "nationality": "Andorra",
+    "position": "Midfielder",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:24:01.686846",
+    "player_index": "5, 0, 7, 12"
+},{
+    "name": "Adel Durán",
+    "date_of_birth": "Nov 30, 1990",
+    "nationality": "Cuba\n  Andorra",
+    "position": "Midfielder",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:24:09.563040",
+    "player_index": "5, 0, 7, 13"
+},{
+    "name": "Cristian Sánchez",
+    "date_of_birth": "Dec 22, 1994",
+    "nationality": "Andorra",
+    "position": "Midfielder",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:24:17.432368",
+    "player_index": "5, 0, 7, 14"
+},{
+    "name": "Boris Antón",
+    "date_of_birth": "Feb 27, 1987",
+    "nationality": "Andorra",
+    "position": "Forward",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:24:24.833429",
+    "player_index": "5, 0, 7, 15"
+},{
+    "name": "Pedro Reis",
+    "date_of_birth": "Feb 8, 1985",
+    "nationality": "Portugal",
+    "position": "Forward",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:24:32.749187",
+    "player_index": "5, 0, 7, 16"
+},{
+    "name": "Joan Salomó",
+    "date_of_birth": "Dec 20, 1983",
+    "nationality": "Spain",
+    "position": "Forward",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:24:41.154801",
+    "player_index": "5, 0, 7, 17"
+},{
+    "name": "Víctor Bernat",
+    "date_of_birth": "May 17, 1987",
+    "nationality": "Andorra\n  Spain",
+    "position": "Forward",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:24:51.074077",
+    "player_index": "5, 0, 7, 18"
+},{
+    "name": "Gerard Aloy",
+    "date_of_birth": "Apr 17, 1989",
+    "nationality": "Andorra",
+    "position": "Forward",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:25:00.128849",
+    "player_index": "5, 0, 7, 19"
+},{
+    "name": "Manuel Machado",
+    "date_of_birth": "Sep 15, 1986",
+    "nationality": "Andorra\n  Portugal",
+    "position": "Forward",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:25:08.765452",
+    "player_index": "5, 0, 7, 20"
+},{
+    "name": "Sergio Crespo",
+    "date_of_birth": "Sep 29, 1992",
+    "nationality": "Andorra",
+    "position": "Forward",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:25:17.558965",
+    "player_index": "5, 0, 7, 21"
+},{
+    "name": "Víctor Moreira",
+    "date_of_birth": "Oct 5, 1982",
+    "nationality": "Andorra",
+    "position": "Forward - Left Winger",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:25:28.064801",
+    "player_index": "5, 0, 7, 22"
+},{
+    "name": "Arturo Riestra",
+    "date_of_birth": "",
+    "nationality": "Spain",
+    "position": "Forward - Centre-Forward",
+    "current_club": "Santa Coloma",
+    "updated_date": "2018-07-23 21:25:35.417142",
+    "player_index": "5, 0, 7, 23"
+},{}]
